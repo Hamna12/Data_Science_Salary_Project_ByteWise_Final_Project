@@ -1,0 +1,1772 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Size,Founded,Type of ownership,Industry,Sector,Revenue
+0,Research Scientist,"$42K-$92K
+(Glassdoor est.)","Job Details
+Job Title
+Research Scientist
+
+Job ID
+459901
+Location
+College of Medicine
+Full/Part Time
+Full-Time
+Department
+Pathology
+Shift
+Varies
+Regular/Temporary
+Regular
+
+FTE %
+100.00
+Salary Range Min
+$50000.00
+
+Salary Range Max
+$65000.00
+Job Description
+Research Scientist (Job Opening 459901) - Research Scientist to participate in the development and implementation of a nationally competitive program investigating vaccine development for infectious diseases including ongoing SARS-CoV-2 vaccine development within the Department of Pathology; writes and submits grant proposals of original research in the area of parasitology, vaccine development and immunology as Principal Investigator (PI), co-investigator or collaborator to obtain funding in support of research with significant salary support from extramural funding sponsors; develops and tests hypotheses; plans, designs and executes advanced research experiments; conducts statistical analysis, evaluation and interpretation of raw data; plans and writes manuscripts, articles, abstracts and research reports for publication in peer-reviewed journals; develops and implements new research techniques and methodologies in the laboratory; writes IRB and ILACUC protocols as needed for research; ensures and is accountable for compliance to federal and institutional laboratory and safety regulations; oversees and trains junior research staff, post doctoral researchers, residents, and undergraduate & graduate students; develops new and on-going collaborative research opportunities.
+Education and Experience
+Doctoral degree in Biochemistry or Molecular or Cellular Bio or Immunology or Parasitology required; extensive experience in a progressively responsible research capacity required; experience in parasitology and immunology is desirable, demonstrated publication record in peer-reviewed journals required; technical expertise in molecular biology, cell biology, biochemistry, immunology preferred and in vivo mouse models desired; experience in laboratory management preferred; grant funding track record desired. Requires successful completion of a background check. Selected candidate may be requested to complete a pre-employment physical including a drug screen.",3.9,"The Ohio State University Wexner Medical Center
+3.9","Columbus, OH",10000+ Employees,1916,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+1,Data Analyst 2,-1,"RESPONSIBILITIES:
+Kforce has a client in search of a Data Analyst 2 in Columbia, OH. The candidate is responsible for planning, coordinating and implementing security measures to safeguard the computer database.
+
+Job Responsibilities:
+Test programs or databases, correct errors and make necessary modifications
+Modify existing databases and database management systems or direct programmers and analysts to make changes
+Write and code logical and physical database descriptions and specify identifiers of database to management system or direct others in coding descriptions
+REQUIREMENTS:
+Good with SQL, automation, procedures, write ETL, strong in report development (either tool, PowerBI, etc.; Prefer MicroStrategy)
+Able to manage project end-to-end
+Attention to detail
+Experience in Excel
+Writing business requirements
+Testing NQC
+Experience with writing T-SQL, automation, SSIS, Teradata and reporting tools - preferably MicroStrategy or SSRS
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.",4.1,"Kforce Inc.
+4.1","Columbus, OH",10000+ Employees,1966,Company - Public,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD)
+2,Data Scientist,"$109K-$174K
+(Glassdoor est.)","We believe a large part of building an effective insurance company can be solved with a principled quantitative framework. We are committed to the rigorous development and effective deployment of modern statistical machine learning methods to problems in the insurance industry.
+
+One of our core data science challenges is understanding driving behavior from smartphone sensor data. Dealing with the flood of sensor data requires us to build large-scale systems that ride the big data wave rather than being submerged by it. There is no shortage of computational and statistical challenges to tackle. In addition to telematics risk-scoring, the Data Science team works on core problems in pricing model development, reserving methodology, marketing, and strategic business forecasts.
+
+A Data Scientist at Root is responsible for the end-to-end development of statistical methods and algorithms. This includes taking high-level business challenges, translating them into a concrete, quantitative framework, and shepherding solutions from R&D into production. Data Scientists typically work on cross-functional teams, regularly engaging with the members of various departments including Product, Actuarial, Marketing, and Engineering.
+Responsibilities:
+Applying principled methods to quantitative insurance challenges in areas such as telematics risk scoring, pricing, reserving, and estimating customer lifetime value.
+Learning the required tools to get the job done, e.g. Python, R, Spark, SQL, etc. Building data processing pipelines to quickly iterate on research ideas and put them into production.
+Effectively communicating insights from complex analyses.
+Taking end-to-end ownership of problem domains and continuously improving upon quantitative solutions.
+
+Minimum Qualifications:
+
+PhD in a quantitative discipline and/or 3+ years of applying advanced quantitative techniques to problems in industry.
+Strong demonstrable knowledge of topics such as statistical inference, numerical linear algebra, machine learning, and numerical optimization.
+Exceptional communicator and storyteller. Strong programming skills with experience using modern packages in R and Python.
+Demonstrated experience building, validating, and applying statistical machine learning methods to real world problems.
+Join us.
+At Root, we judge people based on the merit of their work, not who they are. Very few (if any!) people will fit every description; so if you are passionate about what this role entails, and are excited by solving real problems, we encourage you to apply; we want to learn about you, and what you can add to our team!
+
+Who we are.
+Root Insurance is the nation’s first licensed insurance carrier powered entirely by mobile. We were founded on the belief that the services you need for everyday life should serve you better. That’s why we base insurance coverages on you, not your demographic. It’s the way insurance should be. And it’s all conveniently in an app.
+
+What draws people to Root.
+
+We’re a venture-backed technology company. Our early success is in large part due to our unwavering standards in hiring. We recognize that our product is only as good as the people building and promoting it. We look for individuals who find solutions by going through the cycle of ideation to implementation with curiosity, rigor, and a highly analytical lens. Ask anyone who works here and you’ll hear similar reasons for why they joined:
+Autonomy. For assertive self-starters, the opportunities to contribute are limitless.
+Impact. By challenging the way it’s always been done, we solve problems that have a big impact on our business.
+Collaboration. We encourage rich discussion and civil debate at every turn.
+People. We are inspired by the collection of crazy-smart people around us",3.8,"Root Insurance Company
+3.8","Columbus, OH",501 to 1000 Employees,2015,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD)
+3,Data Scientist Associate Sr. - CCB ML & AI,"$82K-$135K
+(Glassdoor est.)","Data Scientist Sr. Associate (AI/ML)
+
+Chase:
+
+Chase is the U.S. consumer and commercial banking business of JPMorgan Chase & Co. (NYSE: JPM), a leading global financial services firm with assets of $2.5 trillion and operations worldwide. Chase serves nearly half of America's households with a broad range of financial services, including personal banking, credit cards, mortgages, auto financing, investment advice, small business loans and payment processing. Customers can choose how and where they want to bank: 5,200 branches, 16,000 ATMs, mobile, online and by phone. For more information, go to Chase.com.
+
+Chase Consumer & Community Bank (CCB) serves 61 million households and 4 million small businesses with a broad range of financial services, including banking, credit cards, auto finance, payments, mortgages, and investment advice.
+
+CCB Data & Analytics:
+
+CCB Data & Analytics Team unifies data and analytics talent across Chase to responsibly leverage data to build competitive advantages for our businesses with value and protection for customers. The team encompasses a variety of Data & Analytics disciplines, from data governance and data strategy/partnerships to reporting, data science and machine learning, and are actively engaged in ensuring impact at the front-line and the customer through Sales and Marketing transformation. We have a strong partnership with our dedicated Technology partners, who provide us with our cutting edge data and analytics infrastructure. Joining CCB Data & Analytics means you sit in the engine that powers Chase with insights and data science solutions, providing an opportunity to materially impact both our customer and business outcomes. The team also offers significant learning and mobility opportunities for career development and future growth.
+
+Machine Learning and Artificial Intelligence (MLAI) Garage:
+
+Chase is on a mission to deliver a customer-obsessed experience by improving clock speed and providing first class customer interactions. In order to achieve this mission it aims to be an AI fueled organization focused on improving and simplifying the experience of our customers and employees. The MLAI Garage team, part of CCB Data and Analytics team, builds best in class ML and AI solutions for CCB Operations in an Agile environment.
+
+Position Overview
+
+The role is a unique opportunity for an experienced practitioner in data science and analytics. The team is responsible for data analysis supporting the MLAI garages, and is fully embedded with product teams following an Agile delivery methodology. The position offers an opportunity to work with cutting edge big data technologies and methods and to apply analytical and data science skills to support the development of ML and AI solutions
+
+Responsibilities:
+
+• Develop, plan, and execute analytical work working with large scale datasets and Big Data environment, individually and in teams, to drive best in class solutions for Operations
+
+• Partner and work closely with other teams to ensure feasibility and progress of MVPs
+
+• Work side by side with modeling team to ensure the best ML and AI solutions are being delivered to the business
+
+• Follow Analytics best practices
+
+• Have a clear view of metrics of success, model and implementation feasibility and impact to customer
+
+• Share latest ML AI efforts in the industry that can improves operations efficiency and lower OpEx
+
+• Synthesize analytical findings for consumption by garage teams and senior executives
+
+o Deliver practical data insights in a compelling manner actionable by our partners
+
+o Articulate analytical findings in clear and concise deliverables, including presentations, discussions, and visualizations
+
+• Establish and manage relationships with our internal partners becoming a trusted advisor on business data and analytics techniques, with strong understanding of business drivers and underlying data
+
+Qualifications and Required Skills :
+4+ years of industry hands on experience in leveraging advanced data science (including ML) and business analytics to solve business problems
+Bachelor's degree in relevant quantitative field required, advanced degree preferred in analytical field (e.g. Statistics, Economics, Applied Math, Operations Research, other Data Science fields)
+Thought leader in data science and/or analytics who can help the business define their business problem, create solutions to address it, plan and execute the implementation
+Expert knowledge in quantitative methods for business, advanced data science and ML
+Familiarity with Agile, experience with Agile is a plus
+Experience in practical data processing working with Large scale datasets and Big Data environment, data mining, text mining and information retrieval
+Experience across broad range of modern data science and analytics tools (e.g., SQL, Hive, Hadoop, Spark, Python, R)
+Proficiency in SQL and Python or R required.
+Ability to work in large and medium sized project teams, as self-directed contributor with a proven track record of being detail orientated, innovative, creative, and strategic
+Excellent communicator able to convey complex information in an understandable, compelling, and persuasive manner at all levels
+Experience of leading teams with a proven track record of being driving value for the business;
+Financial services background preferred, but not required
+Chase is a leading financial services firm, helping nearly half of America's households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans",3.9,"JPMorgan Chase & Co.
+3.9","Columbus, OH",10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+4,"Data Scientist for Industrial Image Processing - Columbus, OH","$63K-$106K
+(Glassdoor est.)","Description
+New Challenge: New Team, New Office! Protect Our Environment With Your Algorithms
+
+Have you ever thought about pipelines and integrity? Why should pipelines need machine learning?
+
+The answer is simple: Pipeline inspections generate a lot of sensor data (e.g. from ultrasonic sensors) which have to be analyzed using state of the art computer vision techniques. Think of it like doing healthcare just for pipelines.
+
+Interested? Then learn more about industrial machine learning applications and data analysis for pipeline data in a start-up environment. Be part of a new team. Shape the team and your future. Enjoy working in a multi-cultural and multi-national team.
+
+We love Python, C++, Tensorflow, Docker, Kubernetes and want to stay as close as possible to the state of the art tools, research in machine learning, data science and big data. Our ideal team member has a creative mind and natural curiosity when faced with challenging data science tasks. We cherish self-improvement and continuous learning and we offer the possibility to create new data-driven visions for the future using your own methods.
+
+We are looking for a new team of:
+Data Engineers for Industrial Image Data
+Data Scientists for Industrial Image Processing
+Software Developers / C++/PyThon
+Linux Administrators / DevOps
+
+You will be working in an extremely creative environment with a lot of freedom, focused on a joint target with great opportunities to grow internationally.
+
+ROSEN is going to extend its Data Analytics Footprint in Columbus, Ohio and you can be part of this groundbreaking journey for our company.
+
+Responsibilities:
+Designing and applying (machine learning) algorithms for extraction of information from image data
+Deriving technical parameters and specifications from measured data
+Performance estimation and definition of algorithm test procedures
+Deployment of algorithms as minimum viable products focusing on early customer feedback
+Creation and maintenance of related technical documentation
+Researching, rating and implementing development tools
+Using open source software libraries from the field of signal processing, computer vision and data science
+Deliver production code stemming from scientific ideas with support from our software engineers
+Closely collaborate with teams around the world to improve our products
+Professional guidance of Junior level Data Scientists
+Visit of national and international conferences on a regular basis
+Requirements
+Requirements
+To become part of the ROSEN family, you convince through a result-oriented, structured and independently working method. Moreover, you should bring with you:
+Deep understanding of Computer Vision and Machine Learning methods applied in an industrial context
+Hands-on experience with gathering of image data and image data cleaning
+Solid knowledge of applied mathematics (linear algebra, optimization, probability theory)
+Basic knowledge of physics
+Experience with at least one object oriented programming language (e.g. Python, C++)
+Basic understanding of professional software development
+
+Education and Experience
+University degree in physics, electrical engineering, computer science or similar fields
+5+ years relevant work experience in industry in the field of Computer Vision
+Our Offer
+About Rosen-Group:
+
+The ROSEN Group in Coumbus, USA acts as a partner in technology development for 20 global subsidiaries. The location supports the entire Group, developing, building and delivering innovative solutions based on client requests.
+
+ROSEN USA offers an exceptional working environment, salary commensurate with experience and incredible benefits package.",3.6,"ROSEN Swiss AG
+3.6","Columbus, OH",201 to 500 Employees,-1,Company - Private,Oil & Gas Services,"Oil, Gas, Energy & Utilities",$100 to $500 million (USD)
+5,Data Scientist Lead - MANAGING MY CHASE RELATIONSHIP,"$94K-$152K
+(Glassdoor est.)","Data Scientist Sr. Associate (AI/ML)
+
+Chase:
+
+Chase is the U.S. consumer and commercial banking business of JPMorgan Chase & Co. (NYSE: JPM), a leading global financial services firm with assets of $2.5 trillion and operations worldwide. Chase serves nearly half of America's households with a broad range of financial services, including personal banking, credit cards, mortgages, auto financing, investment advice, small business loans and payment processing. Customers can choose how and where they want to bank: 5,200 branches, 16,000 ATMs, mobile, online and by phone. For more information, go to Chase.com.
+
+Chase Consumer & Community Bank (CCB) serves 61 million households and 4 million small businesses with a broad range of financial services, including banking, credit cards, auto finance, payments, mortgages, and investment advice.
+
+CCB Data & Analytics:
+
+CCB Data & Analytics Team unifies data and analytics talent across Chase to responsibly leverage data to build competitive advantages for our businesses with value and protection for customers. The team encompasses a variety of Data & Analytics disciplines, from data governance and data strategy/partnerships to reporting, data science and machine learning, and are actively engaged in ensuring impact at the front-line and the customer through Sales and Marketing transformation. We have a strong partnership with our dedicated Technology partners, who provide us with our cutting edge data and analytics infrastructure. Joining CCB Data & Analytics means you sit in the engine that powers Chase with insights and data science solutions, providing an opportunity to materially impact both our customer and business outcomes. The team also offers significant learning and mobility opportunities for career development and future growth ,
+
+Machine Learning and Artificial Intelligence (MLAI) Garage:
+
+Chase is on a mission to deliver a customer-obsessed experience by improving clock speed and providing first class customer interactions. In order to achieve this mission it aims to be an AI fueled organization focused on improving and simplifying the experience of our customers and employees. The MLAI Garage team, part of CCB Data and Analytics team, builds best in class ML and AI solutions for CCB Operations in an Agile environment.
+
+Position Overview
+
+The role is a unique opportunity for an experienced practitioner in data science and analytics. The team is responsible for data analysis supporting the MLAI garages, and is fully embedded with product teams following an Agile delivery methodology. The position offers an opportunity to work with cutting edge big data technologies and methods and to apply analytical and data science skills to support the development of ML and AI solutions
+
+Responsibilities:
+
+• Develop, plan, and execute analytical work working with large scale datasets and Big Data environment, individually and in teams, to drive best in class solutions for Operations
+
+• Partner and work closely with other teams to ensure feasibility and progress of MVPs
+
+• Work side by side with modeling team to ensure the best ML and AI solutions are being delivered to the business
+
+• Follow Analytics best practices
+
+• Have a clear view of metrics of success, model and implementation feasibility and impact to customer
+
+• Share latest ML AI efforts in the industry that can improves operations efficiency and lower OpEx
+
+• Synthesize analytical findings for consumption by garage teams and senior executives
+
+o Deliver practical data insights in a compelling manner actionable by our partners
+
+o Articulate analytical findings in clear and concise deliverables, including presentations, discussions, and visualizations
+
+• Establish and manage relationships with our internal partners becoming a trusted advisor on business data and analytics techniques, with strong understanding of business drivers and underlying data
+
+Qualifications and Required Skills :
+4+ years of industry hands on experience in leveraging advanced data science (including ML) and business analytics to solve business problems
+Bachelor's degree in relevant quantitative field required, advanced degree preferred in analytical field (e.g. Statistics, Economics, Applied Math, Operations Research, other Data Science fields)
+Thought leader in data science and/or analytics who can help the business define their business problem, create solutions to address it, plan and execute the implementation
+Expert knowledge in quantitative methods for business, advanced data science and ML
+Familiarity with Agile, experience with Agile is a plus
+Experience in practical data processing working with Large scale datasets and Big Data environment, data mining, text mining and information retrieval
+Experience across broad range of modern data science and analytics tools (e.g., SQL, Hive, Hadoop, Spark, Python, R)
+Proficiency in SQL and Python or R required.
+Ability to work in large and medium sized project teams, as self-directed contributor with a proven track record of being detail orientated, innovative, creative, and strategic
+Excellent communicator able to convey complex information in an understandable, compelling, and persuasive manner at all levels
+Experience of leading teams with a proven track record of being driving value for the business;
+Financial services background preferred, but not required
+Chase is a leading financial services firm, helping nearly half of America's households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans",3.9,"JPMorgan Chase & Co.
+3.9","Columbus, OH",10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+6,"Associate Product Development Scientist - Nutrition - Columbus, OH","$39K-$69K
+(Glassdoor est.)","Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 103,000 colleagues serve people in more than 160 countries.
+
+Associate Product Development Scientist
+
+Our location in Columbus OH, currently has an opportunity for a Associate Product Development Scientist. In Research & Development (R&D) our ambition is providing innovative high-quality products, creating sustainable value, delivering superior user experience and enhancing health outcomes at all stages of life.
+
+WHAT YOULL DO
+Help plan and execute experimental designs of low to medium complexity to optimize the nutrient, microbiological, organoleptic and physical quality of new and/or improved products while adhering to relevant internal and external constraints.
+Conduct and communicate observations and record run summaries of pilot experiments and trials.
+Interpret test results and suggest conclusions and action plans. Communicate through verbal updates and written reports.
+Participate on and possibly present to cross-functional business teams including Marketing, Operations, Quality, Purchasing, Regulatory and Legal, as appropriate.
+Understand and address issues related to manufacturing, processing, and technology systems of liquid and powder infant formula products at Abbott or third-party facilities.
+Help provide technical input toward preparation of project plans, BOM costing, and capital requirements.
+Provide technical direction to cross-functional team and plants and manufacturing personnel.
+Set priority and direction of project specific-deliverables and communicate appropriately.
+Conduct global formulation development assessments of compliance to country-specific regulations.
+Author technical R&D documents such as shelf-life test plans, master specification/QQ, TNF, and commercialization recommendations.
+EDUCATION AND EXPERIENCE, YOULL BRING
+
+Required
+MS in Food Science or related scientific field with 0-3 years relevant experience, typically.
+BS in Food Science or related scientific field with 2-7 years relevant experience, typically.
+Preferred
+Practical product development experience or related experience in nutritional products manufacturing is a plus.
+Proficient in data manipulation, analysis and interpretation and use of tools such as MS-Excel to develop or troubleshoot formulation target requirements including nutrient levels, specifications, and label claims.
+WHAT WE OFFER
+
+At Abbott, you can have a good job that can grow into a great career. We offer:
+Training and career development, with onboarding programs for new employees and tuition assistance
+Financial security through competitive compensation, incentives and retirement plans
+Health care and well-being programs including medical, dental, vision, wellness and occupational health programs
+Paid time off
+401(k) retirement savings with a generous company match
+The stability of a company with a record of strong financial performance and history of being actively involved in local communities
+Learn more about our benefits that add real value to your life to help you live fully: www.abbottbenefits.com
+
+Follow your career aspirations to Abbott for diverse opportunities with a company that provides the growth and strength to build your future. Abbott is an Equal Opportunity Employer, committed to employee diversity.
+
+Connect with us at www.abbott.com, on Facebook at www.facebook.com/Abbott and on Twitter @AbbottNews and @AbbottGlobal.",3.6,"Abbott Laboratories
+3.6","Columbus, OH",10000+ Employees,1888,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+7,"Principal Data Scientist, Pricing","$142K-$226K
+(Glassdoor est.)","We believe a large part of building an effective insurance company can be solved with a systematic, quantitative framework. We are committed to the rigorous development and effective deployment of modern statistical machine learning methods to problems in the insurance industry.
+
+The Pricing R&D team is looking for a Principal Data Scientist to help improve and maintain our pricing models. In this role, you’ll be working alongside our Pricing R&D and Actuarial teams from ideation to deployment, rapidly researching and testing new, innovative approaches to loss cost modeling. The ideal candidate will have experience in Private Passenger Auto, with expertise in the research process, evaluation protocols, and post-deployment analyses.
+Responsibilities:
+Technical and thought leadership on the Pricing R&D team
+Continuous improvement of the predictive power of our loss cost models
+Development of a rigorous pre- and post-deployment frameworks
+Constantly search for new predictive rating elements
+Maintain and enhance the quantitative pipeline required for quickly moving proof-of-concepts into production
+Minimum Qualifications
+5+ years of applying advanced quantitative methods to pricing P&C insurance products, with a preference towards private passenger auto
+Strong, demonstrated experience building, validating, and applying statistical machine learning methods.
+Strong programming skills with experience using SQL and modern packages in R.
+Experience with large-scale analytics on AWS platforms
+Exceptional communicator and storyteller.
+Data science maturity",3.8,"Root Insurance Company
+3.8","Columbus, OH",501 to 1000 Employees,2015,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD)
+8,Senior Data Scientist *,"$144K-$228K
+(Glassdoor est.)","We believe a large part of building an effective insurance company can be solved with a principled quantitative framework. We are committed to the rigorous development and effective deployment of modern statistical machine learning methods to problems in the insurance industry.
+
+One of our core data science challenges is understanding driving behavior from smartphone sensor data. Dealing with the flood of sensor data requires us to build large-scale systems that ride the big data wave rather than being submerged by it. There is no shortage of computational and statistical challenges to tackle. In addition to telematics risk-scoring, the Data Science team works on core problems in pricing model development, reserving methodology, marketing, and strategic business forecasts.
+
+Root is looking for an experienced Senior Data Scientist to help drive the future of our team. This includes taking high-level business challenges, translating them into a concrete, quantitative framework, and shepherding solutions from R&D into production. A Senior Data Scientist is expected to join the team with years of industry or academic experience in directly relevant topics.
+Responsibilities
+Strong individual contributor with interest in growing a team of data scientists.
+Applying principled methods to quantitative insurance challenges in areas such as telematics risk scoring, pricing, reserving, and estimating customer lifetime value.
+Learning the required tools to get the job done, e.g. Python, R, Spark, SQL, etc.
+Building data processing pipelines to quickly iterate on research ideas and put them into production.
+Effectively communicating insights from complex analyses.
+Taking end-to-end ownership of problem domains and continuously improving upon quantitative solutions.
+Minimum Qualifications
+Masters or PhD in a quantitative discipline with 5+ years of applying advanced quantitative techniques.
+Exceptional communicator and storyteller.
+Strong programming skills with experience using modern packages in R and Python.
+Demonstrated experience building, validating, and applying statistical machine learning methods.
+Strong programming skills in R or Python
+Knowledge of data science technical stacks
+Why join Root? Because we believe the best way to move the world forward is the relentless pursuit of ideas. We build things that ought to exist, but would not exist, if we were not building them. We do this through immense dedication to our craft, an unwavering focus on our fellow human beings, and a maniacal obsession with the quality of our creations. Problems stick in our craw, and we don’t let them go until we solve them. We believe in the scientific process and know that experimentation is the best way to find truth. We don’t hold ideas down no matter how crazy they may seem. We foster them, nurture them, and unceasingly test them. If you are the kind of person that loves tackling big problems with a collaborative group of people until you find solutions, you belong here.
+
+We believe our customers deserve insurance that is:
+Fair. We lean on data, not demographic labels.
+Affordable. We base rates on good driver performance.
+Personal. We give our customers the power to affect their rates.
+Easy. We create an intuitive experience.
+Accessible. We make information clear.
+Beyond. We are never, ever satisfied with the status quo.",3.8,"Root Insurance Company
+3.8","Columbus, OH",501 to 1000 Employees,2015,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD)
+9,"Data Analyst, Telematics","$48K-$89K
+(Glassdoor est.)","Our data science team makes sense of diverse datasets related to key business problems. We're responsible for the full stack of data analytics, from querying or procuring data, cleaning data, feature generation, problem formulation, error/success metric choice, machine learning/predictive model building, and translation of results into business action. The final product can range from reporting that will be used to advise strategic planning, to recommendation of a specific action, to handing off a predictive model for deployment in production. All of this is done to make our various teams and processes more efficient and to price our products more accurately.
+
+We're looking for a Data Analyst to become an expert on our core telematic models; we've created the mechanisms to collect and process massive amounts of smartphone sensor data, but we need help validating, improving, and teaching other teams about them. In this role, you'll assist our data scientists in developing deeper insights and understandings across various analytical projects, identifying trends and impacts across our data. You'll also build monitoring of critical telematic KPIs from the ground up, helping our a wide range of stakeholders stay up-to-date on what's happening.
+Responsibilities
+Validate and improve core telematics models
+Analyze large telematic datasets to derive key insights in driver’s behavior
+Develop and maintain the key documents and dashboards on core telematics models
+Establish reporting of standard exhibits
+Qualifications
+1+ years of Data Analyst/Data Scientist experience in a business or academic environment
+Strong programming skills. Python preferred
+Experience with SQL
+Demonstrable experience with predictive modeling and model diagnostics
+Knowledge of basic statistical techniques
+Advanced degree in a technical or quantitative field preferred
+Join us.
+At Root, we judge people based on the merit of their work, not who they are. Very few (if any!) people will fit every description; so if you are passionate about what this role entails, and are excited by solving real problems, we encourage you to apply; we want to learn about you, and what you can add to our team!
+
+Who we are.
+Root Insurance is the nation’s first licensed insurance carrier powered entirely by mobile. We were founded on the belief that the services you need for everyday life should serve you better. That’s why we base insurance coverages on you, not your demographic. It’s the way insurance should be. And it’s all conveniently in an app.
+
+What draws people to Root.
+
+We’re a venture-backed technology company. Our early success is in large part due to our unwavering standards in hiring. We recognize that our product is only as good as the people building and promoting it. We look for individuals who find solutions by going through the cycle of ideation to implementation with curiosity, rigor, and a highly analytical lens. Ask anyone who works here and you’ll hear similar reasons for why they joined:
+Autonomy. For assertive self-starters, the opportunities to contribute are limitless.
+Impact. By challenging the way it’s always been done, we solve problems that have a big impact on our business.
+Collaboration. We encourage rich discussion and civil debate at every turn.
+People. We are inspired by the collection of crazy-smart people around us",3.8,"Root Insurance Company
+3.8","Columbus, OH",501 to 1000 Employees,2015,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD)
+10,Business Data Analyst,-1,"Business Data Analyst
+
+Are you a passionate leader looking for autonomy and exciting career possibilities? Do you take an energetic and resourceful approach to problem-solving while bringing innovative ideas and analytics to life on behalf of your team and your customers? Do you enjoy effectively translating requirements into an efficient process and/or system solution? If so, DHL Supply Chain has the opportunity for you.
+
+Job Description
+
+To apply knowledge and analytics to develop and communicate timely, accurate, and actionable insight to the business through the use of modeling, visualization, and optimization. Responsible for the reporting, analyzing, and predicting of operational processes, performance, and Key Performance Indicators. Communication with site leadership, operations, and finance on efficiency, customer requirements, account specific issues, and insight into to the business, operations, and customer.
+
+• Applies hindsight, insight, and foresight techniques to communicate complex findings and recommendations to influence others to take action
+
+• Uses knowledge of business and data structure to discover and/or anticipate problems where data can be used to solve the problem
+
+• Uses spreadsheets, databases, and relevant software to provide ongoing analysis of operational activities
+
+• Applies data visualization for discovery and timely insights to decrease Cycle Time to Action (CTA)
+
+• Assists site operations in identifying areas for improving service levels, reducing operational costs, and providing other operational enhancements
+
+• Supports account start-up analysis and/or report implementation as needed
+
+• Develop standardized and ad hoc site and/or customer reporting
+
+• Streamlines and/or automates internal and external reporting
+
+• May investigate and recommend new technologies and information systems
+
+• May conduct feasibility analyses on various processes and equipment to increase efficiency of operations
+
+• Partners with Finance to develop financial models to analyze productivity and payroll; calculates cost benefits and business impact and proposes solutions
+
+• Develops predictive models to help drive decision making
+
+• Designs, develops, and implements data gathering and reporting methods and procedures for Operations
+
+• Responsible for tracking, planning, analysis, and forecasting of storage capacities, inventory levels, equipment and/or labor requirements
+
+• Coordinates with Operations Systems group to ensure technical issues and problems are being identified, addressed, and resolved in a timely manner
+
+• May coordinate with ILD group on issues related to modeling customer solutions, including providing data and relevant insight for customer pursuits
+
+• Responsible for assisting finance and senior leadership in modeling yearly labor budget based on operational and profile changes
+
+Required Education and Experience
+
+• Undergraduate degree in business, logistics, mathematics, statistics, or related field, required
+
+• 1-3 years of analytics experience, required
+
+Our Organization has a business casual environment and focuses on teamwork, associate development, training, and continuous improvement. We offer competitive wages, excellent affordable insurance benefits (including health, dental, vision and life), 401K plan, paid vacation and holidays.
+
+Our Organization is an equal opportunity employer.
+
+Additional Job Description
+Design, code, test and aggregate results from SQL queries
+Create technical documentation to capture relationships between different databases
+Evaluate and improve existing BI systems and models
+Define develop tabular cube/models for optimal performance
+Design solutions to present large amounts of information in ways that are universally understandable le or easy to interpret
+Harness creativity to render information useful in data storytelling
+Additional Requirements
+Experience in Microsoft BI Stack
+Experience in Microsoft SQL
+Experience with machine learning (Python, R, Azure ML, etc.), preferred
+Knowledge and experience with Azure Platform (Data Factory, Data Lake, Blob Storage, etc.)
+Additional Job Description
+Design, code, test and aggregate results from SQL queries
+Create technical documentation to capture relationships between different databases
+Evaluate and improve existing BI systems and models
+Define develop tabular cube/models for optimal performance
+Design solutions to present large amounts of information in ways that are universally understandable le or easy to interpret
+Harness creativity to render information useful in data storytelling
+Additional Requirements
+Experience in Microsoft BI Stack
+Experience in Microsoft SQL
+Experience with machine learning (Python, R, Azure ML, etc.), preferred
+Knowledge and experience with Azure Platform (Data Factory, Data Lake, Blob Storage, etc.)",3.9,"DHL International GmbH
+3.9","Westerville, OH",10000+ Employees,1969,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Less than $1 million (USD)
+11,Biochemistry Research Scientist,"$69K-$128K
+(Glassdoor est.)","Battelle is guided by a founding mission. We invest our knowledge, talents and resources, helping our customers achieve their most important goals. We apply scientific rigor and creativity, succeeding where others may fail, and we invest in our communities, making the world better for generations to come. All of us share a common purpose: to solve the greatest challenges of today and tomorrow.
+
+Our 22,000 employees work at the forefront of scientific innovation to tackle critical challenges in security, human health, manufacturing, energy and environmental management. Battelle’s work is grounded in the belief that science, technology and a passion for excellence can make industries more competitive and the world a better place.
+
+Battelle’s Chemical, Biological, Radiological, Nuclear, and Explosives (CBRNE) Business Line is currently seeking candidates for a full time, permanent position as a Biochemistry Research Scientist. This position is located in Columbus, Ohio.
+JOB SUMMARY
+Support and lead the design, execution, and reporting of experiments rooted in microbiology, biochemistry, and molecular biology within structured regulatory and quality frameworks (e.g. Select Agent regulations, ISO 9001:2015, and GLP).
+Performing and developing protein isolation and characterization procedures
+Total protein quantitation and enzymatic analysis for activity
+Gel electrophoresis, Western blotting and ELISA techniques
+Liquid chromatography processes (analytical or preparative)
+MAJOR RESPONSIBILITIES
+Performing experiments and preparing/reporting technical progress and results
+Troubleshooting testing process/procedures
+Preparing presentations
+Developing and performing dilutions and reagent preparation procedures
+Performance/direction of routine and non-routine laboratory procedures independently including:
+Inspection, testing, maintenance, and documentation of laboratory equipment
+Operation of lab equipment to include pipetting devices, balances, pH meters, centrifuges, plate readers, gel electrophoresis system, gel imagers, liquid chromatography systems, etc.
+Training less experienced staff
+Select and develop technical approaches/solutions on complex assignments with occasional oversight.
+Oversee technical efforts which include conducting technical work, produce quality results, prepare technical reports, and generate technical presentations within budget and schedule
+Assisting in preparing scientific journal publications and presenting at professional meetings
+Assisting in the development of proposals, marketing plans and identifying business opportunities
+Foster effective project teams across the group. Train, mentor, and lead junior technical staff
+Some domestic travel is likely.
+THE FOLLOWING IS REQUIRED
+A Ph.D. (Or MS and 5 years’ experience Or BS and 10 years experience) in biochemistry or a related field.
+Experience in laboratory-based studies.
+Proactive approach to problem solving and commitment to achieving quality results on schedule.
+Excellent written and verbal communication skills, and proven ability to work collaboratively with interdisciplinary teams.
+Experience working within laboratory quality management systems (e.g., ISO 9001, ISO17025, GLP)
+The ability to work in a team environment and train less experienced staff
+Sole U.S. citizenship, with the ability to obtain and maintain required government security clearances as a condition of employment
+Sufficiently medically fit to work in the laboratory to perform assigned duties including the ability to wear personal protection equipment (PPE), lift up to 50 pounds, and work in the proximity of hazardous/infectious materials0.
+Experience working in GLP laboratories
+THE FOLLOWING IS DESIRED
+Current or previously held security clearance
+LEGAL DISCLAIMER
+The above statements are intended to describe the nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, activities and skills required of staff members. No statement herein is intended to imply any authorities to commit Battelle unless special written permission is granted by Battelle's Legal Department.
+
+BENEFITS
+
+Battelles competitive benefits program includes comprehensive medical and dental care, matching 401K, paid time off, flexible spending accounts, disability coverage, and other benefits that help provide financial protection for you and your family.
+
+Battelle provides employment and opportunities for advancement, compensation, training, and growth according to individual merit, without regard to race, color, religion, sex (including pregnancy), national origin, sexual orientation, gender identity, marital status, age, genetic information, disability, veteran-status, or any other characteristic protected under applicable Federal, state, or local law. Our goal is for each staff member to have the opportunity to grow to the limits of their abilities and to achieve personal and organizational objectives. We will support positive programs for equal treatment of all staff and full utilization of all qualified employees at all levels within Battelle.
+
+For more information about our other openings, please visit www.battelle.org/careers",3.2,"Battelle Memorial Institute
+3.2","Columbus, OH",10000+ Employees,1929,Nonprofit Organization,Research & Development,Business Services,$5 to $10 billion (USD)
+12,CCB F&BM - Quantitative Modeling/Data Science Associate,"$73K-$127K
+(Glassdoor est.)","JPMorgan Chase & Co. (NYSE: JPM) is a leading global financial services firm with assets of $2.7 trillion and operations worldwide. The firm is a leader in investment banking, financial services for consumers and small business, commercial banking, financial transaction processing, and asset management. A component of the Dow Jones Industrial Average, JPMorgan Chase & Co. serves millions of consumers in the United States and many of the world's most prominent corporate, institutional and government clients under its J.P. Morgan and Chase brands.
+
+Chase Consumer & Community Banking (CCB) serves nearly 66 million consumers and 4 million small businesses with a broad range of financial services through our 137,000 employees. The Consumer & Community Banking Business Modeling Center of Excellence is a newly formed unit in support of modeling needs for marketing, finance and operations. Our modelers work directly with each line of business, Consumer Banking, Business Banking, Auto Finance, Credit Card and Commerce Services, Chase Wealth Management and Home Lending, to build state-of-the-art models and tools to support business growth.
+
+We are an intellectually diverse team of economists, statisticians, and other analytics professionals, focused on statistical modeling within the Treasury group of Consumer and Community Banking (CCB), the retail banking arm of JPMorgan Chase & Co. The team answers complex and unique questions, utilizing cutting edge analytical techniques and leveraging one of the world's largest repositories of consumer data. We work closely with our partners throughout JPMorgan Chase to assess and execute critical business decisions.
+
+The individual hired for this position will build models to answer questions and create forecasts for groups across the Finance organization at JPMorgan Chase. Typical duties for this position include:
+Building econometric models for deposits, loans, revenue, or other business drivers
+Modeling for regulatory requirements, including stress testing (CCAR/DFAST)
+Performing analysis to answer immediate business questions
+Identifying data anomalies
+Communicating results across audiences throughout JPMorgan Chase
+Sample projects include:
+Building budget and regulatory models to predict deposit account closure rates
+Forecasting the performance of branches or bankers to optimize the branch network and staffing
+Creating price elasticity models to optimize deposit and loan pricing
+Qualifications
+
+We are looking for analytics professionals that possess:
+Exceptional unstructured problem solving skills
+Outstanding communications skills
+Professional maturity and demonstrated leadership ability
+Passion for analytics
+Technical proficiency
+Candidates should have a PhD in a quantitative field of study, preferably statistics or economics, and a sound foundation in one or more of the following analytical disciplines:
+Linear and non-linear statistical modelingTime series and forecasting
+Panel (longitudinal) data analysis
+Data manipulation and management
+Non-parametric methods
+Statistical programming in R, Python, or equivalent
+Candidates with a master's and at least three years of quantitative modeling experience will also be considered.
+Chase is a leading financial services firm, helping nearly half of America's households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans",3.9,"JPMorgan Chase & Co.
+3.9","Columbus, OH",10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+13,"Scientist I, QC Aero Star","$25K-$60K
+(Glassdoor est.)","To perform routine, work-flow processes within the quality control laboratory to meet customer requirements by supporting the testing of raw materials and finished products while ensuring regulatory compliance standards and release times are met.
+
+Perform qualitative, quantitative chemical and physical testing and as specified by compendia or specification for raw materials, packaging components and finished products and intermediates
+Maintain laboratory data in an orderly manner in laboratory notebooks, worksheets and documents.
+Perform peer review of analytical testing documentation.
+Complete and/or conduct required training according to the laboratory and site curriculum.
+Other Duties as assigned.
+
+BS in Chemistry or a science-related field. One or more years of pharmaceutical experience preferred.
+Required: hands-on experience with the following, preferably in a GMP or industrial setting:
+pH meters
+Analytical Balances and scales
+Computer applications (Microsoft Office – Excel, Word, PowerPoint)
+Basic statistical inference (standard deviation, linear regression tools)
+Required: ability to work independently using a team approach to accomplish tasks assigned; ability to work on multiple projects in a fast pace environment.
+Required: good written and verbal communication skills.
+Prior work related experiences or knowledge that are highly desirable include:
+Validation, execution and transfer of analytical methods
+Compendial testing of raw materials (APIs, excipients, package components)
+Pharmaceutical products and intermediate testing. The individual must be able to perform compendial and non-compendial testing for multiple projects at one time.
+Experience with Empower data analysis software.
+cGMP, DEA, or other regulated environment
+Hands-on experience with the following analytical techniques is highly desirable, in a scholastic or industrial setting. Individual will receive formal training in these techniques as appropriate to their specific role:
+Chromatography: HPLC, GC, IC, uPLC
+Spectroscopy: UV, UV/Vis, IR/FTIR, Raman, NIR, XRF, IonScan
+Dissolution
+Physical Tests: Particle Sizing, microscopy, DSC, TGA, XRD
+Specialized pharmaceutical testing (Compendial Monograph or General Chapter, dissolution)
+Working knowledge of the specified equipment and techniques to perform troubleshooting is highly desired.
+
+Please note that Hikma does not accept unsolicited resumes or calls from third-party recruiters or employment agencies. In the absence of a signed Master Service Agreement and approval from HR to submit resumes for a specific requisition, Hikma will not consider or approve payment to any third-parties for hires made.",3.3,"Hikma Pharmaceuticals PLC
+3.3","Columbus, OH",5001 to 10000 Employees,1978,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+14,Data Engineer,-1,"At Finite State, our mission is to protect the devices that power our modern lives by illuminating the vulnerabilities and threats within their complex software supply chains. We do this by leveraging massive data analysis to provide transparency to device manufacturers and their customers - enabling them to understand and mitigate their risks before they are compromised. We are seeking a Data Engineer with special interest in firmware analysis. If you are a self-starter who enjoys working in a fast-paced, collaborative environment, then we want to talk to you!
+
+Primary responsibilities for this position include:
+● Manage the ingestion, flow, and processing of firmware and network data through our analytics pipeline.
+● Collecting data from third party API’s and other data sources.
+● Developing new data models to support a wide variety of data types and use cases.
+● Developing customer facing and internal REST and GraphQL API interfaces to the full data set.
+● Solving challenging big data management problems.
+
+Candidates at a minimum must have significant experience with the following:
+● Experience with large scale, complex, and fast moving data sets
+● Experience with Stream based data pipelines preferably leveraging Kafka
+● AWS Cloud Batch, Lambda, Glue, ECS
+● NoSQL and SQL database technologies
+● Django Development
+● Python Development
+● Source control (Github)
+
+It’s preferred (but not required) that candidate have familiarity and experience with:
+● Kubernetes and Docker orchestration
+● Apache Calcite
+● PostgreSQL
+● Pilosa and Molecula
+● CI/CD tooling
+● Python Alembic
+● Python Graphene and GraphQL
+● PySpark
+● ElasticSearch
+● Enterprise SaaS Development
+● Apache Airflow
+
+About Finite State
+Built on two decades of cybersecurity experience serving the Fortune 50 and the U.S. Intelligence Community, our team of experts understands the hidden risks in today’s enterprise networks, where IoT vulnerabilities are quickly becoming the entry point of choice for cyber attacks.
+
+Finite State gives cyber defenders a tactical advantage by identifying the devices running on the network and proactively analyzing firmware buried inside the IoT devices for hidden vulnerabilities. We have a sense of duty to protect the critical infrastructure we rely on including medical devices, power grids and telecommunication networks. We were founded in 2017 in Columbus, Ohio.
+
+At Finite State, we are dedicated to hiring a diverse workforce and are proud to be an equal opportunity employer. We offer competitive salary, equity, full benefits (medical, dental, vision, disability and life-insurance), 401k plan and unlimited PTO, because we believe it is important to unplug and recharge.
+
+Come help us solve one of the biggest problems in cyber security!",5.0,"Finite State, Inc
+5.0","Columbus, OH",1 to 50 Employees,2017,Company - Private,Security Services,Business Services,Unknown / Non-Applicable
+15,CCB F&BM - Quantitative Modeling/Data Science Vice President,"$140K-$238K
+(Glassdoor est.)","The CCB Business Modeling Center of Excellence is a newly-formed team of data scientists focused on quantitative modeling for marketing, finance and operations. The team answers complex and unique questions, utilizing cutting edge quantitative and computational techniques and leveraging one of the world's largest repositories of consumer data. We work closely with our partners throughout JPMorgan Chase to assess and execute critical business decisions.
+
+Responsibilities:
+
+In this role, you will build models to answer questions and create forecasts for teams across the Finance organization at JPMorgan Chase. Your duties will include:
+Building statistical models for key business drivers, including forecasting deposits, loans, and revenue, and optimizing strategies
+Performing advanced quantitative and statistical analysis of large datasets to identify trends, patterns, and correlations that can be used to improve business performance
+Communicating results across audiences throughout JPMorgan Chase
+Actively contributing to the continuous learning mindset of the organization by bringing in new ideas and perspectives that stretch the thinking of the group
+Examples of projects that you could be working on include:
+Forecasting the performance of branches or bankers to improve the branch network
+Predicting credit card redemption patterns
+Forecasting call volume to optimize staffing level
+Qualifications:
+Candidates should have a PhD in a quantitative field of study, such as statistics or economics
+Candidates should have at least three years of experience, preferably in financial services or a closely related industry.
+Excellent written and oral communication skills, be deeply curious and highly motivated, and be able to translate ambiguous business problems into a conceptual mathematical framework.
+A sound foundation in one or more of the following analytical disciplines:
+Statistical and econometric modeling
+Machine learning methods
+Data manipulation and management
+Ability to write code in at least one of the following: R, Python, or equivalent
+Chase is a leading financial services firm, helping nearly half of America's households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans",3.9,"JPMorgan Chase & Co.
+3.9","Columbus, OH",10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+16,"Scientist IV, Analytical","$57K-$122K
+(Glassdoor est.)","Manages analytical projects in support of the development of a manufacturable multi-source pharmaceutical product. Conducts testing, analytical method development and validation in support of regulatory submissions and product launches. Troubleshoots and improves analytical methods. Manages analytical project time-lines, and coordinates analytical activities to meet the business deadlines. Coaches and mentors peers.
+
+Takes the analytical lead on the assigned projects with minimum supervision, identifying and performing the required analytical tasks in support of product development, registration lot release, pre and post regulatory submission activities. Develops workable action plans and coordinates the activities of other scientists under supervision to ensure that the tasks are completed. Performs activities within the assigned timelines and in compliance with cGXP's, regulatory requirements and company practices and procedures.
+Performs analytical method development, validation and project support. Identifies, offers, and implements contingency plans to prevent and overcome analytical issues and perform method trouble shooting with no supervision.
+Proactively participates in activities in support of process changes (e.g. processes, procedures, etc...). Suggests and leads process improvements to refine current systems and improve efficiency. Mentors peers in method development, validation, troubleshooting, instrumentation, laboratory practices, and processes. Conducts trainings on selected topics of interest for the department.
+Follows work instructions, SOPs, company practices and regulatory guidances/regulations. Documents analytical activities and results accurately, in a timely manner and right-first time. Reviews and checks analytical data generated by peers and maintains integrity of data. Supports activities to maintain the laboratory status of compliance to FDA/regulatory standards.
+Communicates effectively with peers, supervisor, management and internal customers about project status. Monitor project status and proactively communicate to supervisor potential delays and challenges. Participates and represents the department in cross-functional teams.
+
+PhD in a scientific discipline with a minimum of 5 years experience,or
+MS in a scientific discipline with a minimum of 8 years experience, or
+BS/BA in a scientific discipline with a minimum of 10 years of experience.
+The work related experiences include development, validation, execution and transfer of analytical methods for APIs or drug products.
+For API: experience in HPLC, GC and particle size is required. Experience in one of the following techniques is preferred: DSC/TGA, DVS, MS, XRD.
+For Product: experience in HPLC and dissolution is required. Experience in two of the following techniques is required: GC, droplet size, particle size, DSC/TGA, DVS, MS, XRD, AA, NIR.
+In-depth knowledge of the critical functions/variables of the analytical techniques, and proven ability to troubleshoot methods is also required.
+Experience with data acquisition software is required.
+Knowledge of the most current FDA/ICH guidance’s, national Pharmacopoeias, and c-GMP regulations is required. Good understanding of analytical regulatory requirements for ANDA/NDA submissions is required.
+Must be able to work in a team environment approach to accomplish tasks assigned. Coaching skills are required.
+
+Please note that Hikma does not accept unsolicited resumes or calls from third-party recruiters or employment agencies. In the absence of a signed Master Service Agreement and approval from HR to submit resumes for a specific requisition, Hikma will not consider or approve payment to any third-parties for hires made.",3.3,"Hikma Pharmaceuticals PLC
+3.3","Columbus, OH",5001 to 10000 Employees,1978,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+17,PhD. Data Scientist - Natural Language Processing,-1,"PhD Data Scientist - Natural Language Processing
+
+**Do not quick apply without reading the description in it's
+entirety. Please call if you have questions regarding the
+qualifications!
+
+NLP (Natural Language Processing) Data Scientist in Healthcare
+
+This is a Direct Hire/FTE salaried opportunity in Columbus, Ohio.
+
+PhD candidates with specific healthcare experience /
+projects OR a Masters (senior level DS) with 3 years healthcare
+experience ONLY
+
+Degree should be in Computer Science, Statistics, Biostatistics,
+or something similar.
+
+EAD/OPT and H1B candidates eligible!
+
+Do you consider yourself a Data Scientist? Do you have a PhD in
+Statistics, Mathematics, Biostats, Computer Science, or
+something comparable? If you have a Master's degree with 3 years
+current Data Science experience focused on NLP, you can also be
+considered. Do you have current or recent experience working in
+NLP (Natural Language Processing)? Do you love statistics and
+the manipulation of data? Are you interested in true Big Data
+environments? Do you have a solid experience with ""R"" or Python
+development background? Are you experienced with enterprise level
+process and procedures? This opportunity with one of Columbus,
+Ohio best known enterprises may be a great option for you to
+consider. A recent expansion in their practice has caused a need
+for ""A"" players. Is this you?
+
+You will be working on a truly collaborative team with other Data
+Scientists that have different levels of experience and
+specialization. Mentorship, ownership, and visibility are all
+attributes that can be yours to experience!!!
+
+Company:
+
+-Extremely friendly and employee-centric atmosphere
+
+-Lots of room for growth, development and educational
+opportunities
+
+-New development
+
+-Always use the latest / emerging technologies
+
+-Work/Life balance (work from home at least 2 days per week)
+
+-Company paid Pension / Health insurance / Dental insurance /
+Vision insurance /Paid Time Off /Paid holidays
+
+Primary Role:
+
+-Data Science focused on NLP (Natural Language Processing)
+projects
+
+-Developing and administering statistical and machine learning
+methods applied to predictive analytics problems in the
+healthcare space.
+
+-""R"", SQL, and statistical software development (ex. SAS/SPSS,
+etc.)
+
+-Must have Clinical/Research/Academic -centric current experience
+
+-Ph.D or Masters ONLY (heavy research, clinical, or academia
+projects will be considered)
+
+-Heavy on statistical modeling, R, python and statistical
+software package (ex.SAS/SPSS, etc.) experience
+
+Requirements for the Data Scientist:
+
+-3+ years of experience in statistical modeling (the more the
+better!) -
+
+-PhD candidates with specific healthcare experience /
+projects OR a Masters (senior level DS) with 3 years healthcare
+experience ONLY (Statistics and/or Computer Science areas are
+best)
+
+-SQL and/or pl/sql
+
+-R, python,
+
+-NLP (Natural Language Processing) and Machine Learning algorithm
+development
+
+-Object oriented programming language knowledge/experience
+(Java/Python)
+
+Next steps: Call me to discuss your background and more
+importantly, your future goals!
+
+Oh, and by the way.... Please send your resume and call me (the
+best candidates always do both).
+
+Tom Gaebelein
+Lead Recruiter Emerald Resource Group
+
+440.627.6925 / tom@emeraldresourcegroup.com",4.2,"Emerald Resource Group, Inc.
+4.2","Columbus, OH",1 to 50 Employees,1997,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD)
+18,CCB - Quantitative Modeling/Data Science - Assoc,"$73K-$127K
+(Glassdoor est.)","We are an intellectually diverse team of economists, statisticians, engineers, and other analytics professionals, focused on quantitative modeling within CCB at JPMorgan Chase & Co. The team answers complex and unique questions, utilizing cutting edge quantitative and computational techniques and leveraging one of the world's largest repositories of consumer data. We work closely with our partners throughout JPMorgan Chase to assess and execute critical business decisions.
+
+Responsibilities:
+Apply critical thinking skills and perform advanced analytics with the goal of solving complex and multi-faceted business problems.
+Generate deep insights through the analysis of data and understanding of business processes and turn them into actionable recommendations.
+Perform advanced quantitative and statistical analysis of large datasets to identify trends, patterns, and correlations that can be used to improve business performance.
+Know what type of algorithm to use and how to implement them
+Build and deploy prototype solutions to demonstrate ideas and prove concepts.
+Develop presentations to summarize and communicate key messages to senior management sponsors and colleagues.
+Become a subject matter expert and trusted advisor in the analytics discipline.
+Collaborate with others in the organization to develop new ideas and brainstorm potential solutions.
+Actively contribute to the continuous learning mindset of the organization by bringing in new ideas and perspectives that stretch the thinking of the group
+Qualifications:
+Deep quantitative/programming background with a graduate degree (M.S., Ph.D.) in Statistics, Engineering, Computer Science, Mathematics, Operations Research, or Economics,
+2-5+ years of related experience preferred
+Hands-on experience with Machine Learning and Artificial Intelligence
+Ability to write code and develop production-ready analytical applications
+Significant experience working with very large scale (structured and unstructured) data
+Expertise in at least one of the following: Python, R
+Chase is a leading financial services firm, helping nearly half of America's households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans",3.9,"JPMorgan Chase & Co.
+3.9","Columbus, OH",10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+19,Research Scientist - HealthCare Quality Improvement,"$62K-$119K
+(Glassdoor est.)","Battelle is guided by a founding mission. We invest our knowledge, talents and resources, helping our customers achieve their most important goals. We apply scientific rigor and creativity, succeeding where others may fail, and we invest in our communities, making the world better for generations to come. All of us share a common purpose: to solve the greatest challenges of today and tomorrow.
+
+Our 22,000 employees work at the forefront of scientific innovation to tackle critical challenges in security, human health, manufacturing, energy and environmental management. Battelle’s work is grounded in the belief that science, technology and a passion for excellence can make industries more competitive and the world a better place.
+
+We are currently seeking a Researcher Scientist (Healthcare Quality Improvement). This position may be located in Baltimore, Maryland; Crystal City, VA or Columbus, OH.
+JOB SUMMARY
+Battelle’s Health Research team, headquartered in Baltimore, MD, specializes in conducting research in the areas of healthcare quality improvement, clinical quality measure development, measurement science, and knowledge management for government, academic and private industry clients worldwide. The primary functions of the Research Scientist – Healthcare Quality Improvement will be to execute appropriate research and analytical methods designed to evaluate the measurement development, implementation, and maintenance of clinical quality measures. This includes an understanding of, and experience with, appropriate experimental and quasi-experimental research methodologies, policy analysis, qualitative, quantitative, and mixed-methods evaluation designs, as well as, outcome dissemination and implementation science. The selected candidate will be part of a team of researchers evaluating the outcomes and impacts of programs focused on a wide range of health and wellbeing research. Compensation will be based on qualifications and experience
+MAJOR RESPONSIBILITIES
+Participates in multiple, assigned, and self-initiated research projects with a minimum of supervision and within time and budget constraints.
+May assist in the development of clinical quality measures focused on a wide range of clinical areas.
+Provides technical assistance to clinical quality measure developers.
+Develop and assist in conducting presentations on advancements in clinical quality measure science.
+Perform assignments by compiling and evaluating design and test data, prepare technical specifications, analyze technical data to determine appropriate limits and variables for product or process specifications.
+Will assist in the planning, organization, execution, analyze, and perform technical work; organize project resources; manage budget; project deliverables; and other related project management activities for multiple projects.
+Develop and maintain key relationships through collaboration and working closely with internal and external stakeholders to communicate project data, status, and technical needs and address risk, issues, and opportunities.
+Provide technical advice and assistance; review proposed solutions for technical feasibility, (White Papers, and Contract Proposals).
+Support preparation and submission of publishable manuscripts.
+Support business development efforts, including strategic planning and monitoring of current and future business opportunities.
+Prepare technical and financial information for briefings, presentations, and status reports.
+Reviews scientific literature and other information sources and prepares summaries.
+Prepares technical reports and presentations that are clear, concise, and technically accurate.
+May assist in monitoring and reporting program commitments, obligations, expenditures, contract performance, and program status execution to include program milestones, schedule, and cost, conduct related analyses, and track financial and technical metrics.
+THE FOLLOWING IS REQUIRED
+Ph.D. in health administration, health informatics, public health, other health-related relevant field and experience in clinical quality measure development. OR
+Master’s degree or higher in health administration, health informatics, public health, other health-related relevant field and 2+ years of professional experience in clinical quality measure development. OR
+Bachelor’s degree or higher in health administration, health informatics, public health, other health-related relevant field and 5+ years of professional experience in clinical quality measure development
+Experience working in contract research for a federal, state, or private entity.
+Experience working with one or more of the following federal agencies: Centers for Medicare & Medicaid Services, Department of Veterans Affairs, Agency for Healthcare Research and Quality, the Defense Health Agency.
+Experienced writing technical reports, and analytical reviews.
+Experience working with and/or developing healthcare quality measures.
+Ability to communicate verbally and in writing and maintain effective working relationships with a broad range of operational users, technical developers, and government program managers
+Proven ability to work as an effective member of a multidisciplinary team.
+THE FOLLOWING IS DESIRED
+Experienced assisting or writing funding proposals, concise recommendation papers and longer analytical reviews.
+Experience working with private or state health agencies.
+Knowledge and experiences in research involving health policy, health disparities, international health, health economics or health data sources such as electronic health records are also desirable.
+Excellent word processing and computer skills; familiarity with Microsoft Office software including Word, Excel, PowerPoint, as well as SharePoint and Adobe Acrobat Professional.
+LEGAL DISCLAIMER
+The above statements are intended to describe the nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, activities and skills required of staff members. No statement herein is intended to imply any authorities to commit Battelle unless special written permission is granted by Battelle’s Legal Department.
+
+BENEFITS
+
+Battelles competitive benefits program includes comprehensive medical and dental care, matching 401K, paid time off, flexible spending accounts, disability coverage, and other benefits that help provide financial protection for you and your family.
+
+Battelle provides employment and opportunities for advancement, compensation, training, and growth according to individual merit, without regard to race, color, religion, sex (including pregnancy), national origin, sexual orientation, gender identity, marital status, age, genetic information, disability, veteran-status, or any other characteristic protected under applicable Federal, state, or local law. Our goal is for each staff member to have the opportunity to grow to the limits of their abilities and to achieve personal and organizational objectives. We will support positive programs for equal treatment of all staff and full utilization of all qualified employees at all levels within Battelle.
+
+For more information about our other openings, please visit www.battelle.org/careers",3.2,"Battelle Memorial Institute
+3.2","Columbus, OH",10000+ Employees,1929,Nonprofit Organization,Research & Development,Business Services,$5 to $10 billion (USD)
+20,Statistician (Data Scientist) *12 month Roster* *Direct Hire*,-1,"The U.S. Department of the Treasury has a distinguished history dating back to the founding of our nation. As the steward of U.S. economic and financial systems, Treasury is a major and influential leader in today's global economy. We have over 100,000 employees across the country and around the world. Come Join the Department of the Treasury and Invest in Tomorrow.
+See Other Information for Locations
+Positions are to be filled in the Large Business & International (LB&I), Data Solutions division.
+Eight (8) positions are to be filled in any of the following locations:
+Birmingham, AL
+Fayetteville, AR
+Little Rock, AR
+Phoenix, AZ
+El Monte, CA
+Glendale, CA
+Laguna Niguel, CA
+Los Angeles, CA
+Long Beach, CA
+Oakland, CA
+Sacramento, CA
+San Diego, CA
+San Francisco, CA
+San Jose, CA
+Santa Ana, CA
+Lakewood, CO
+Hartford, CT
+New Haven, CT
+Norwalk, CT
+Washington, DC
+Newark, DE
+Miami, FL
+Ft. Myers, FL
+Jacksonville, FL
+Maitland, FL
+Plantation, FL
+Tampa, FL
+West Palm Beach, FL
+Atlanta, GA
+Honolulu, HI
+Des Moines, IA
+Chicago, IL
+Downers Grove, IL
+Schiller Park, IL
+Springfield, IL
+Indianapolis, IN
+Wichita, KS
+Louisville, KY
+New Orleans, LA
+Boston, MA
+Brockton, MA
+Stoneham, MA
+Southborough, MA
+Baltimore, MD
+Lanham-Seabrook, MD
+Rockville, MD
+Ann Arbor, MI
+Clinton Township, MI
+Detroit, MI
+Farmington Hills, MI
+Flint, MI
+Grand Rapids, MI
+Pontiac, MI
+Bloomington, MN
+Chesterfield, MO
+Lee's Summit, MO
+Charlotte, NC
+Greensboro, NC
+Raleigh, NC
+Omaha, NE
+Edison, NJ
+Iselin, NJ
+Mountainside, NJ
+Paterson, NJ
+Las Vegas, NV
+Albany, NY
+Bethpage, NY
+Buffalo, NY
+New York, NY
+Rochester, NY
+Cincinnati, OH
+Columbus, OH
+Independence, OH
+Oklahoma City, OK
+Tulsa, OK
+Portland, OR
+Philadelphia, PA
+Pittsburgh, PA
+King Of Prussia, PA
+Guaynabo, PR
+Warwick, RI
+Franklin, TN
+Memphis, TN
+Nashville, TN
+Austin, TX
+Farmers Branch, TX
+Fort Worth, TX
+Houston, TX
+San Antonio, TX
+Ogden, UT
+Salt Lake City, UT
+Norfolk, VA
+Richmond, VA
+Vienna, VA
+Seattle, WA
+Milwaukee, WI
+Waukesha, WI
+Kearneysville, WV
+Martinsburg, WV
+WHAT DOES A DATA SCIENTIST DO? The Data Scientist utilizes advanced analytical, statistical, and computer programming skills to develop data- driven solutions to difficult business challenges. As a data scientist, you are responsible for conducting data-centric projects to provide insight and informed decisions for mission- oriented programs of the Internal Revenue Service (IRS), which may impact multiple program segments, divisions, the Service, or segments of the taxpayer population. This is accomplished by utilizing a wide range of technical competencies such as statistics and machine learning, coding languages, data wrangling, and reporting and visualization techniques. The Data Scientist may lead team or cross functional projects, and will apply critical thinking, problem solving and ability to communicate complex analysis to advance the use of data-driven decision making in IRS operations.
+
+WHAT IS THE LARGE BUSINESS AND INTERNATIONAL (LB&I) DIVISION OF THE INTERNAL REVENUE SERVICE? The Large Business and International (LB&I) business unit provides service and enforcement activities to support tax compliance of businesses and related entities with assets of $10 million or more, as well as small U.S. businesses engaged in international, U.S. citizens abroad, and foreign persons and businesses with a U.S. tax requirement.
+As a Data Scientist, you will:
+Serve as a technical expert with responsibility for the initiation, planning, implementation, controlling, modifying and executing of all or part of an entire project, including such tasks as formulation of workload estimates for program segments, specification of the methodology to be used, preparation of appropriate specifications and procedures, and review of computer systems specifications and materials and instructions needed for assuring the adequacy of the project’s design and objectives.
+Explore novel methods of retrieving data and develop innovative recommendations to management and senior leadership as a means for making data driven decisions such as modification of processes and policies. Review, evaluate, validate, and document the results of the findings.
+Assist the supervisor in determining the scope, goals and schedules for future programs in the Office. Collaborate with business or technology partners to understand business needs, identify opportunities, and develop and implement analytical solutions.
+Identify and assess relevant data sources’ validity and reliability to meet project needs. Collate, clean, transform, analyze, and integrate structured and unstructured data from various sources in preparation for analysis.
+Apply statistical methods and concepts including data mining, statistical theory and research procedures to test hypotheses using structured and unstructured data. Develop data product solutions to improve customer experiences, anomaly detection, and business outcomes. Develop proofs of concept or demonstrations to evaluate feasibility of project solutions and recommend visualization strategies.
+Document project work and review deliverables for validity, reliability and timeliness. Communicate analytic solutions to technical and non-technical stakeholders, including during executive- level and/or cross-agency meetings, in a clear and effective manner using oral and written communications.
+Maintain knowledge of state-of-the-art innovations in data science from both academic and industry sources and identify opportunities for implementation. Engage in general professional development to improve knowledge of IRS processes/programs.
+Apply computer based mathematical/statistical techniques using software. Lead or participate in statistical projects or studies in survey sampling (design and estimation), modeling, or statistical research. Apply knowledge of programming/coding language (i.e., SQL, SAS, SPSS, RStudio) to develop scripts or applications.
+Act as a troubleshooter in resolving bottlenecks at any step in a project by identifying and proposing solutions; this may include coordination with other project team members or stakeholders to mitigate issues.
+
+WHERE CAN I FIND OUT MORE ABOUT OTHER IRS CAREERS? If you want to find out more about IRS careers, visit us on the web at www.jobs.irs.gov
+#LI-POST
+You must meet the following requirements by the closing date of this announcement
+BASIC QUALIFICATION REQUIREMENTS:
+
+GS-1530 Statistician All Grades:
+You must have a Bachelor's degree that included 15 semester hours in statistics (or in mathematics and statistics, provided at least 6 semester hours were in statistics), and 9 additional semester hours in one or more of the following: physical or biological sciences, medicine, education, or engineering; or in the social sciences including demography, history, economics, social welfare, geography, international relations, social or cultural anthropology, health sociology, political science, public administration, psychology, etc. Credit toward meeting statistical course requirements should be given for courses in which 50 percent of the course content appears to be statistical methods, e.g., courses that included studies in research methods in psychology or economics such as tests and measurements or business cycles, or courses in methods of processing mass statistical data such as tabulating methods or electronic data processing. OR
+Combination of education and experience -- courses as shown above, plus appropriate experience or additional education. The experience should have included a full range of professional statistical work such as (a) sampling, (b) collecting, computing, and analyzing statistical data, and (c) applying statistical techniques such as measurement of central tendency, dispersion, skewness, sampling error, simple and multiple correlation, analysis of variance, and tests of significance.
+GS-13 LEVEL: You must have one year of specialized experience at a level of difficulty and responsibility equivalent to the GS-12 grade level in the Federal service. Specialized experience for this position includes all of the following:
+Experience applying project management principles on a data science project
+Experience planning and executing a variety of data science and/or analytics projects.
+Experience using data mining process models (such as CRISP-DM, SEMMA, etc.,) to design and execute data science project.
+Experience preparing and analyzing structured and unstructured datasets to explorations and evaluating data science centric models.
+Experience working with multiple data types and formats as a part of a data science project.
+Experience applying a range of analytic approaches, including (but not limited to) machine learning, text analytics, and natural language processing; graph theory, link analysis and optimization models; complex adaptive systems; and/or deep learning neural networks that are part of the exploration.
+Experience coding in various programming languages (such as R, Python, SQL, or JAVA) to conduct various phases of data science projects.
+Experience creating and querying different datastores and architectures (such as Sybase, Oracle, and open-source databases) to work with various types of data as part of the data science project.
+Experience using tools for data visualization (graphs, tables, charts, etc.,) and end-user business intelligence.
+-The experience may have been gained in the public sector, private sector or Volunteer Service. One year of experience refers to full-time work; part-time work is considered on a prorated basis.
+-To ensure full credit for your work experience, please indicate dates of employment by month/year, and indicate number of hours worked per week, on your resume.",3.4,"Internal Revenue Service
+3.4","Columbus, OH",1001 to 5000 Employees,-1,Government,Federal Agencies,Government,Less than $1 million (USD)
+21,Environmental Senior Research Scientist,"$121K-$148K
+(Glassdoor est.)","Battelle is guided by a founding mission. We invest our knowledge, talents and resources, helping our customers achieve their most important goals. We apply scientific rigor and creativity, succeeding where others may fail, and we invest in our communities, making the world better for generations to come. All of us share a common purpose: to solve the greatest challenges of today and tomorrow.
+
+Our 22,000 employees work at the forefront of scientific innovation to tackle critical challenges in security, human health, manufacturing, energy and environmental management. Battelle’s work is grounded in the belief that science, technology and a passion for excellence can make industries more competitive and the world a better place.
+
+We are seeking qualified applicants for a full-time Environmental Senior Research Scientist position at our headquarters in Columbus, Ohio although alternate locations can be considered.
+JOB DESCRIPTION
+
+Our Environmental Business Line conducts research, characterization, and remediation of environmental contamination, and designs and implements environmentally sustainable remedial technologies.
+
+POSITION RESPONSIBILITIES:
+
+As a Senior Research Scientist, the selected individual will design and lead complex and innovative environmental engineering and science projects to effectively characterize contamination in a wide array of media, and design and implement remedial systems to treat the contamination. Examples of responsibilities based on current and anticipated projects include:
+Determines the appropriate analysis methods, identifies problems, and develops and implements innovative solutions to solve complex problems.
+Analyzes data and provides focused interpretive reports detailing environmental conditions, problems, solutions, and optimization recommendations specific to the project and environmental issues.
+Develop procedures and oversee/lead other staff in conducting laboratory and field activities that generate defensible technical data.
+Serves as program manager and/or project manager, leading, planning, and conducting major technical environmental programs and projects, coordinating the efforts of technical support staff in the performance of assigned projects within time and budget constraints.
+Analyzes and interprets data collected in the laboratory and/or field and oversees the development of various reports which may include environmental laboratory studies, sampling plans, work plans, health and safety plans, groundwater monitoring reports, site assessment reports, well completion/abandonment reports, evaluations of remediation concepts, remedial design documents, and proposals related to environmental project work.
+Serves as proposal manager or lead author of major proposals or major sections of large proposals.
+Recognized by clients as an expert in one or more specific technical areas of the environmental remediation marketplace, demonstrated through publications and presentations.
+Builds effective working relationships with internal and external clients, managing client meetings, and maintains successful business development efforts with key clients to identify, cultivate, and capture major business opportunities.
+Assists in developing and implementing strategic plans for business development in specific technical areas and expanding Battelle’s reputation in the environmental remediation market.
+Identifies, plans, and leads internal research and development projects focused on growing Battelle’s technical capabilities and new business.
+Participates in scientific conferences, peer review panels, and increases company visibility through publications.
+Provides strong mentoring, technical guidance, and oversight to other environmental scientists and engineers.
+SUCCESSFUL CANDIDATES WILL DEMONSTRATE:
+Experience managing large projects/programs in the environmental remediation industry with DoD and/or EPA clients.
+Experience leading and coordinating multidiscipline teams to successfully execute laboratory, remedial design, environmental field projects and/or internal research projects.
+Experience with soil, groundwater, surface water, and/or soil-gas contamination laboratory study, investigation and remediation projects including techniques, instrumentation, and equipment utilized on such projects, and preparation of technical documents.
+Ingenuity, creativity, and resourcefulness, including the development and application of innovative technical principles and concepts to solve current and future problems in the environmental remediation industry, including emerging contaminants.
+Technical thought leadership and ability to identify and resolve problems associated with the development and implementation of complex laboratory, remedial design, and/or field projects and programs.
+Proven ability to both work independently and lead a team.
+Positive attitude and eagerness to take on new and technically challenging tasks.
+THE FOLLOWING REQUIREMENTS MUST BE MET TO BE CONSIDERED FOR THIS POSITION:
+Master’s Degree in environmental-related discipline with 8 to 10 years’ experience
+Registered Professional Engineer (PE) or Professional Geologist (PG) if degreed in one of these technical disciplines.
+Program and/or Project Management experience with multi-million dollar, complex remediation and site assessment projects
+Demonstrated expertise with innovative technologies and/or emerging contaminants
+Training: 40-hour OSHA HAZWOPER and current 8-hour annual refresher certification.
+Excellent verbal and written communication and interpersonal skills.
+Ability to work in the office, laboratory, and/or field setting. Travel to out-of-state project locations and conferences very likely required.
+THE FOLLOWING IS DESIRED, BUT NOT REQUIRED TO BE CONSIDERED FOR THIS POSITION:
+PhD in environmental-related discipline.
+Project Management Professional (PMP).
+Legal Disclaimer
+
+The above statements are intended to describe the nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, activities and skills required of staff members. No statement herein is intended to imply any authorities to commit Battelle unless special written permission is granted by Battelle’s Legal Department
+
+BENEFITS
+
+Battelle’s competitive benefits program includes comprehensive medical and dental care, matching 401K, paid time off, flexible spending accounts, disability coverage, and other benefits that help provide financial protection for you and your family.
+
+Battelle provides employment and opportunities for advancement, compensation, training, and growth according to individual merit, without regard to race, color, religion, sex (including pregnancy), national origin, sexual orientation, gender identity, marital status, age, genetic information, disability, veteran-status, or any other characteristic protected under applicable Federal, state, or local law. Our goal is for each staff member to have the opportunity to grow to the limits of their abilities and to achieve personal and organizational objectives. We will support positive programs for equal treatment of all staff and full utilization of all qualified employees at all levels within Battelle.
+
+For more information about our other openings, please visit www.battelle.org/careers",3.2,"Battelle Memorial Institute
+3.2","Columbus, OH",10000+ Employees,1929,Nonprofit Organization,Research & Development,Business Services,$5 to $10 billion (USD)
+22,Data Engineer,-1,"Associate Data Engineer
+
+Are you a talented Data Engineer who enjoys building, maintaining, and supporting data infrastructure, including data/application integration processes, data warehouse objects, and report refreshes? Do you want to be part of a great culture that includes collaboration, professional growth, and lots of fun? If your answer is “yes!”, we’d love to hear from you.
+
+The Associate Data Engineer is part of the Business Intelligence team and works with data engineers, data architects and BI developers. The primary purpose of this role is to deliver data pipelines and analytics solutions. The Associate Data Engineer is responsible for building, maintaining, testing and evaluating solutions in close partnership with solution architects and other analytic partners. This includes translating requirements into new data solutions, maintenance and execution of existing processes, as well continuous improvement.
+
+Responsibilities
+Build technical solutions that turn business requirements into operational processes and inject analytical insights into the business
+Align technical solutions to client’s governance requirements to ensure data security and maintain data quality standards
+Build automation and self-service consumption tools to operationalize data ingestion and analytic models
+Communicate clearly and concisely to client leadership and stakeholders to ensure alignment on project status and deliverables
+Partner with Big Data architects and other key stakeholders to ensure that project deliverables align with cost and timing standards
+Qualifications
+Microsoft Certified: Azure Data Engineer Associate (required)
+Bachelor’s degree in computer science, information technology, or a related field or equivalent experience (required)
+2 years of hands-on experience as a data engineer/ETL developer in a data warehousing environment
+Experience with ETL and integration tools like Informatica, Azure Data Factory, SSIS (Data Factory preferred)
+Experience with scripting languages
+Experience with SQL in databases like SQL Server or Oracle (SQL Server preferred)
+Understanding of integration approaches, business intelligence and data warehousing concepts like dimensional modeling
+2 years of experience in Big Data Solutions using technologies including one or more of the followings: Hadoop, Hive, HBase, MapReduce, Spark, Sqoop, Oozie, .Net
+Understanding of the technology processes such as SDLC using Agile methodology, testing approaches and software release management
+Knowledge of one or more BI reporting tools such as Power BI a plus
+Experience working with cloud infrastructure such as Microsoft Azure a plus
+At HMB, we win when you win. We win because of the people we hire and surround ourselves with — and the people we are fortunate to call clients. When we focus on being more interested than interesting, we build trust. When we build trust, our clients succeed. When our clients succeed, we succeed. Technology empowers our clients to do some truly amazing things. And helping them bring their projects to life, well — it energizes us. It’s what gets us out of bed each morning. We come to work knowing we’re part of building sensational technology that matters.
+
+This passion is what drives us to succeed. It’s what we’re here to do.
+
+For more information on HMB, please visit our website at www.hmbnet.com.
+
+Job Type: Full-time
+
+Pay: $80,000.00 - $98,000.00 per year
+
+Benefits:
+401(k)
+401(k) Matching
+Dental Insurance
+Disability Insurance
+Employee Discount
+Health Insurance
+Life Insurance
+Paid Time Off
+Parental Leave
+Professional Development Assistance
+Referral Program
+Tuition Reimbursement
+Vision Insurance
+Schedule:
+8 Hour Shift
+Monday to Friday
+Supplemental Pay:
+Bonus Pay
+Location:
+Westerville, OH 43082 (Required)
+Work authorization:
+United States (Required)
+Application Question:
+Do you currently hold a Microsoft Azure Data Engineer Associate certification?
+This Job Is:
+A job for which military experienced candidates are encouraged to apply
+A job for which people with disabilities are encouraged to apply
+Company's website:
+https://www.hmbnet.com/
+Company's Facebook page:
+https://www.facebook.com/VisitHMB/
+Benefit Conditions:
+Waiting period may apply
+Only full-time employees eligible
+Work Remotely:
+Temporarily due to COVID-19",3.5,"HMB Professional Engineers, Inc.
+3.5","Westerville, OH",51 to 200 Employees,-1,Private Practice / Firm,Architectural & Engineering Services,Business Services,Less than $1 million (USD)
+23,Consumer Lending Data and Analytics Manager,-1,"Description
+
+
+Job Description – Consumer Lending D&A Manager
+Collaborate with stakeholders across Consumer Lending to clearly define the underlying business need and translate findings into basic business requirements
+Evaluate requirements and determine the most effective approach that satisfies the business need
+Leads analytic strategies within the Consumer Finance business – Home Equity, Mortgage, Debit and Credit card business unit including data extraction, manipulation, analysis, reporting and presentation
+Balances sound risk management practices with portfolio growth and profitability
+Collaborates closely with multiple levels of senior management and various business segments (Marketing, Risk Management, Product, Legal, Regulatory Compliance) to make recommendations and influence business decisions
+Maintains outlook on competitive landscape and translates to potential issues within the Bank's portfolio
+Design, develop, test, and maintain business intelligence and reporting solutions including dashboards to provide actionable intelligence
+Coaches, develops and leads junior analysts in business analysis, data extraction projects and reporting
+On an ad hoc basis execute reports or analyses, interpret results, and present recommendations based on findings
+Basic Qualifications
+Bachelor's degree in Business, Computer Science, finance, Statistics or related field/ equivalent work experience
+5 or more years in financial services and experience handling large complex data sets
+Preferred Qualifications
+MBA preferred
+SQL, SAS, Tableau experience with ability to extract/ manipulate data from disparate sources
+Understanding of consumer bank loan products - strong familiarity with product P&Ls for mortgage, HE, Credit, Debit Card with keen understanding of how changes will impact profitability
+Sound knowledge of consumer loan products to ensure ability to validate results/ analyses performed by team members
+Ability to articulate problem solving methodology used to research and create solutions with strong analytical thought process
+Experience Leading/ Managing teams and ability to think independently
+Strong communication skills with ability to communicate at all levels (verbal and written skills) including presenting to senior management
+Ability to multi-task, remain objective and goal-focused under pressure
+Strong skills to be effective in a matrix-style management and environment
+EEO/AA Employer/Minority/Female/Disability/Veteran/Sexual Orientation/Gender Identity
+
+Tobacco-Free Hiring Practice: Visit Huntington's Career Web Site for more details.
+
+Agency Statement: Huntington does not accept solicitation from Third Party Recruiters for any position",3.5,"Huntington Bancshares Incorporated
+3.5","Columbus, OH",10000+ Employees,1866,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+24,Ultrasonic Crack Detection (UCD) - Data Analyst,"$35K-$66K
+(Glassdoor est.)","Description
+
+Requirements
+
+ROSEN USA, based in Houston, TX seeks to employ an In-Line Inspection – Ultrasonic Crack Detection (UCD) Data Analyst. This position is located in our Columbus, OH office.
+
+Responsibilities:
+Through the performance of daily tasks, and in cooperation with other department process functions, execute all aspects of the UCD Data Analysis process per ROSEN policies and procedures.
+Receive pipeline In-line inspection data from ROSEN Sub-processes, check for quality and quantity using ROSEN proprietary software, procedures, and specifications.
+Perform basic data processing and compile Line Information File.
+Analyze and interpret UCD signal data to identify both references and anomalies.
+Perform In-Line Inspection data correlation.
+
+Our Offer
+
+Qualifications or Skills:
+A two - year degree in a technical discipline or equivalent work experience in a related area is preferred. A minimum high school education or GED is required.
+Satisfactory completion of the required training and experience as required by ANSI/ASNT ILI-PQ-2005 per applicable technology.
+Intermediate Microsoft Office skills, particularly Microsoft Word and Excel.
+Excellent interpersonal skills – ability to work well within a team environment.
+Excellent troubleshooting skills.
+Strong communication skills – both written and verbal.
+Strong analytical and interpretive skills.
+Detail oriented/organizational skills required.
+Ability to grasp new concepts quickly and easily.",3.6,"ROSEN Swiss AG
+3.6","Columbus, OH",201 to 500 Employees,-1,Company - Private,Oil & Gas Services,"Oil, Gas, Energy & Utilities",$100 to $500 million (USD)
+25,"Watson Health - Analytic Consultant, Healthcare","$47K-$75K
+(Glassdoor est.)","Introduction
+IBMs Industry Consultants are essential to our clients as they work to reinvent themselves for the future. Join our highly visible and highly skilled team of global consultants as we strive to accelerate sales, deliver client engagements, and build IBMs market eminence. If you are a forward-thinker and a curious intellectual, we welcome you to apply for your next exciting career challenge!
+
+Your Role and Responsibilities
+Position based in Reno, Nevada
+
+The Analytic Consultant provides program integrity (PI) products and analytic services to the Nevada Medicaid agency. This Analytic Consultant must live in Nevada, and be available on site to provide support. Applies industry and product knowledge to deliver excellent customer service and high quality analytics that enable clients to identify and investigate high-yield fraud and abuse cases.
+
+Responsibilities
+Provides analytic support to design, development and implementation of PI solutions
+participates in requirements analysis, report design and testing, and user training.
+Designs an analytic project with an accurate estimate of effort in a project plan.
+Develops and maintains fraud, waste, and abuse algorithms using proprietary tools.
+Researches policy, provider manuals and provider communications; and coding guidelines related to analytic projects to ultimately translate policy into data analysis.
+Creates reports and written summaries showing dollars paid and potential recovery for previously identified vulnerabilities.
+Prepares and delivers effective and polished presentation type summaries of results to clients remotely and in person.
+Collaborates across internal teams to achieve common goals in areas of data analysis, methodology review, and product improvement.
+Ensure all reports and deliverables are completed accurately and on-time.
+Work with clients and project team(s) to track results and return on investment from PI analytics.
+Required Technical and Professional Expertise
+3-5 years healthcare industry and/or quantitative work experience, including experience with analysis of Medicaid claims/encounter data.
+Experience in analysis of fraud, waste and abuse.
+Strong skills using Microsoft Applications: Word, Excel, and PowerPoint.
+Demonstrated ability to convey complex ideas in an easily understood manner to guide audience through written or verbal communications.
+Outstanding project management skills.
+Experience applying health analysis methods and measures utilizing basic statistical methods.
+Demonstrated ability to understand industry issues and problems, relate them to clients needs, and propose appropriate solutions.
+Excellent oral and written communication skills and outstanding presentation skills.
+Strong customer service orientation.
+Willingness to travel up to 10% of time.
+Preferred Technical and Professional Expertise
+3-5 years healthcare industry and/or quantitative work experience, including experience with analysis of Medicaid claims/encounter data.
+Experience in analysis of fraud, waste and abuse.
+Strong skills using Microsoft Applications: Word, Excel, and PowerPoint.
+Demonstrated ability to convey complex ideas in an easily understood manner to guide audience through written or verbal communications.
+Outstanding project management skills.
+Experience applying health analysis methods and measures utilizing basic statistical methods.
+Demonstrated ability to understand industry issues and problems, relate them to clients needs, and propose appropriate solutions.
+Excellent oral and written communication skills and outstanding presentation skills.
+Strong customer service orientation.
+Willingness to travel up to 10% of time.
+About Business Unit
+IBM Watson Health is pioneering a new partnership between humanity and technology with the goal of transforming global health and revolutionizing many aspects of the medical and pharmaceutical industries, as well as government sectors. We aspire to improve lives and give hope by delivering innovation to address the worlds most pressing health challenges through data and artificial intelligence insights.
+
+Your Life @ IBM
+What matters to you when youre looking for your next career challenge?
+
+Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible.
+
+Impact. Inclusion. Infinite Experiences. Do your best work ever.
+
+About IBM
+IBMs greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries.
+
+Location Statement
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.",3.7,"International Business Machines Corporation
+3.7","Columbus, OH",10000+ Employees,1911,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+26,Principal Research Scientist - HealthCare Quality Improvement,"$87K-$153K
+(Glassdoor est.)","Battelle is guided by a founding mission. We invest our knowledge, talents and resources, helping our customers achieve their most important goals. We apply scientific rigor and creativity, succeeding where others may fail, and we invest in our communities, making the world better for generations to come. All of us share a common purpose: to solve the greatest challenges of today and tomorrow.
+
+Our 22,000 employees work at the forefront of scientific innovation to tackle critical challenges in security, human health, manufacturing, energy and environmental management. Battelle’s work is grounded in the belief that science, technology and a passion for excellence can make industries more competitive and the world a better place.
+
+We are currently seeking a Principal Research Scientist – Healthcare Quality. Health Research and Measure Development Principal Research Scientist. This position may be located in Baltimore, Maryland; Crystal City, VA or Columbus, OH.
+JOB SUMMARY
+Battelle’s Health Research team, headquartered in Baltimore, MD, specializes in conducting research in the areas of healthcare quality improvement, clinical quality measure development, measurement science, and knowledge management for government, academic and private industry clients worldwide. The primary functions of the Principal Research Scientist, Healthcare Quality will be to execute appropriate health research and analytical methods designed to evaluate the development, implementation, and maintenance of clinical quality measures and alternative payment models. This includes an understanding of, and experience with, appropriate experimental and quasi-experimental research methodologies, policy analysis, qualitative, quantitative, and mixed-methods evaluation designs, as well as, outcome dissemination and implementation science. The selected candidate will be part of a team of researchers evaluating the outcomes and impacts of programs focused on a wide range of health and wellbeing research. Compensation will be based on qualifications and experience.
+MAJOR RESPONSIBILITIES
+Leads and participates in multiple, assigned, and self-initiated research projects with a minimum of supervision and within time and budget constraints.
+Participates in the development of clinical quality measures focused on a wide range of clinical areas.
+Participates in the development and evaluation of alternative payment models.
+Provides subject matter expertise to federally-funded clinical quality measure developers.
+Conducts presentations on advancements in clinical quality measure science.
+Perform highly complex assignments by compiling and evaluating design and test data, prepare technical specifications, analyze technical data to determine appropriate limits and variables for product or process specifications.
+Plan, organize, execute, analyze, and perform technical work; organize project resources; manage budget; project deliverables; and other related project management activities for multiple projects.
+Manage stakeholder relationships through collaboration and working closely with internal and external stakeholders to communicate project data, status, and technical needs and address risk, issues, and opportunities.
+Provide technical advice and assistance; review proposed solutions for technical feasibility, (White Papers, and Contract Proposals).
+Support and lead preparation and submission of publishable manuscripts.
+Support business development efforts, including strategic planning and monitoring of current and future business opportunities.
+Prepare technical and financial information for briefings, presentations, and status reports.
+Monitor and report program commitments, obligations, expenditures, contract performance, and program status execution to include program milestones, schedule and cost, conduct related analyses, and track financial and technical metrics.
+Reviews scientific literature and other information sources, and prepares summaries.
+Prepares technical reports and presentations that are clear, concise, and technically accurate.
+Monitor and report program commitments, obligations, expenditures, contract performance, and program status execution to include program milestones, schedule and cost, conduct related analyses, and track financial and technical metrics.
+Builds relationships with internal and external partners and clients, and supports business development efforts.
+THE FOLLOWING IS REQUIRED
+Ph.D. in health administration, health informatics, public health, other health-related relevant field and 2+ years of professional experience in clinical quality measure development. OR
+Master’s degree or higher in health administration, health informatics, public health, other health-related relevant field and 5+ years of professional experience in clinical quality measure development. OR
+Bachelor’s degree or higher in health administration, health informatics, public health, other health-related relevant field and 8+ years of professional experience in clinical quality measure development
+Experience working in contract research for a federal, state or private entity.
+Experience working with one or more of the following federal agencies: Centers for Medicare & Medicaid Services, Department of Veterans Affairs, Agency for Healthcare Research and Quality, the Defense Health Agency.
+Experienced writing funding proposals, concise recommendation papers and longer analytical reviews.
+Experience working with and/or developing healthcare quality measures.
+Ability to communicate verbally and in writing and maintain effective working relationships with a broad range of operational users, technical developers and government program managers
+Proven ability to work as an effective member of a multidisciplinary team.
+THE FOLLOWING IS DESIRED
+Experience working with private or state health agencies.
+Knowledge and experiences in research involving health policy, health disparities, international health, health economics or health data sources such as electronic health records are also desirable.
+Excellent word processing and computer skills; familiarity with Microsoft Office software including Word, Excel, PowerPoint, as well as SharePoint and Adobe Acrobat Professional.
+LEGAL DISCLAIMER
+The above statements are intended to describe the nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, activities and skills required of staff members. No statement herein is intended to imply any authorities to commit Battelle unless special written permission is granted by Battelle’s Legal Department.
+
+BENEFITS
+
+Battelles competitive benefits program includes comprehensive medical and dental care, matching 401K, paid time off, flexible spending accounts, disability coverage, and other benefits that help provide financial protection for you and your family.
+
+Battelle provides employment and opportunities for advancement, compensation, training, and growth according to individual merit, without regard to race, color, religion, sex (including pregnancy), national origin, sexual orientation, gender identity, marital status, age, genetic information, disability, veteran-status, or any other characteristic protected under applicable Federal, state, or local law. Our goal is for each staff member to have the opportunity to grow to the limits of their abilities and to achieve personal and organizational objectives. We will support positive programs for equal treatment of all staff and full utilization of all qualified employees at all levels within Battelle.
+
+For more information about our other openings, please visit www.battelle.org/careers",3.2,"Battelle Memorial Institute
+3.2","Columbus, OH",10000+ Employees,1929,Nonprofit Organization,Research & Development,Business Services,$5 to $10 billion (USD)
+27,Accounting Data Analyst / Implementation Specialist,-1,"Be a part of what we’re building…a growing, vital, & vibrant team.
+
+ACCOUNTING DATA ANALYST / IMPLEMENTATION SPECIALIST
+
+Marker, Inc. is a well-established commercial construction and development firm with over 64 years of successful business across the state of Ohio. We are seeking a motivated, proven, and experienced Accounting Data Analyst / Implementation Specialist to perform responsibilities in three primary areas: project management, data analytics, and base accounting work. Our ideal candidate is self-motivated, collaborative, extremely attentive to details, and a strong communicator – both written and visually.
+
+Position Summary:
+Project management – Work toward the development and implementation of a technology roadmap that will effectively support the needs of various internal departments, while considering both local and remote workers, including but not limited to:
+Lead the implementation of new systems and business processes
+Interfaces with management to develop recommendations regarding needs of internal customers
+Modifies processes or systems in order to ensure business needs are met and related department and employee questions/problems are resolved.
+Assists with the testing of all functional changes and new system implementation
+Serves as a resource for problem identification and is responsible for accurate resolution
+Serves as a central resource and assists with the training of the new processes/computer system
+Coordinates and performs user acceptance testing of new system functionality
+Develop written training materials as well as procedures to ensure effective implementation of modifications and improvements in information and records management system
+Develop processes to monitor the effectiveness of the implementation of new systems and institute remediates as necessary
+Data Analytics & Visualization – Identify relevant questions, collect data from multiple sources, organize the information, translate results into solutions, and communicate findings in a way that positively affects business decisions, including:
+Develop data visualization products required in order to accurately convey institutional information in a changing environment
+Leverage managerial costing knowledge, models, and analytics to visualize information in an effort to propose cost reduction strategies/tactics
+Monitor and ensure maintenance of data integrity and quality control of systems.
+Forecast in an environment of uncertainty using sensitivity analysis Use statistical techniques such as regression, exponential smoothing, and confidence levels
+Accounting – Assist in the preparation of budgets, forecasts, and periodic financial statements, including:
+Lead the preparation of annual operating budgets and interim forecasts
+Provides analysis of subcontractor financial statements for prequalification
+Reconcile managerial cost calculations for decision support with cost accounting calculations for financial reporting, and explain the differences
+Assists in month-end close process including but not limited to:
+Preparing detailed account analysis
+Preparing reports necessary for validating general ledger balances
+Preparing journal entries
+Ensuring data is properly recorded to provide accurate costing
+Perform other duties as required.
+Minimum Qualifications:
+
+Applicant will be curious and results-oriented, with exceptional industry-specific knowledge and communication skills, which allows them to convey highly technical information to non-technical counterparts. They will possess a strong quantitative background as well as programming knowledge with focuses in data mining, and modeling to the analysis of trends. Needs to be able to work under general supervision and be accountable for computer system and business process development, testing and training.
+
+Education and Experience:
+Minimum of bachelor’s degree with a major in accounting, finance, or data analytics/engineering coupled with 4 years of applicable experience; or
+Minimum of Associates degree with a major in accounting, finance, or data analytics/engineering coupled with 10 years of applicable experience; or
+A commensurate combination experience in the accounting and data analytics/engineering aspects of the commercial construction industry.
+Experience with SQL, PowerBI, Crystal Reports, and an analytics model such as the Cross-Industry Standard Process for Data Mining required.
+Primary Location: Columbus, Ohio
+
+Reports to Vice President of Finance and Risk Management
+
+Pay will be commensurate with skills and experience. We pay 70% of health insurance premiums and offer paid holidays, vacations, a matching 401k retirement program, and a bonus program.
+
+Calls from professional recruiters will not be accepted or considered.
+
+Interested candidates should complete an online application. Be sure to complete all fields of the application, including work experience, compensation history, and a message (cover letter) about you are the best fit for this position. Incomplete applications will not be considered.
+
+We are proud to be an EEO, drug-free, and GREAT place to work.",-1,"LLOYDS & MARKER PROFESSIONAL SERVICES, INC.","Columbus, OH",Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD)
+28,"Data Engineer for Industrial Image Data - Columbus, OH","$55K-$102K
+(Glassdoor est.)","Description
+
+New Challenge: New Team, New Office! Protect Our Environment With Your Algorithms
+
+Have you ever thought about pipelines and integrity? Why should pipelines need machine learning?
+
+The answer is simple: Pipeline inspections generate a lot of sensor data (e.g. from ultrasonic sensors) which have to be analyzed using state of the art computer vision techniques. Think of it like doing healthcare just for pipelines.
+
+Interested? Then learn more about industrial machine learning applications and data analysis for pipeline data in a start-up environment. Be part of a new team. Shape the team and your future. Enjoy working in a multi-cultural and multi-national team.
+
+We love Python, C++, Tensorflow, Docker, Kubernetes and want to stay as close as possible to the state of the art tools, research in machine learning, data science and big data. Our ideal team member has a creative mind and natural curiosity when faced with challenging data science tasks. We promote self-improvement and continuous learning and we offer the possibility to create new data-driven visions for the future using your own methods.
+
+We are looking for a new team of:
+Data Engineers for Industrial Image Data
+Data Scientists for Industrial Image Processing
+Software Developers / C++/PyThon
+Linux Administrators / DevOps
+
+You will be working in an extremely creative environment with a lot of freedom, focused on a joint target with great opportunities to grow internationally.
+
+ROSEN is going to extend its Data Analytics Footprint in Columbus, Ohio and you can be part of this groundbreaking journey for our company.
+
+Responsibilities
+Design of a big data infrastructure (storage, formats, interfaces, etc.)
+Identification of data sources and transformation into suitable formats
+Definition of data requirements together with data scientists
+Development of suitable tools for data access
+Fusion of extremely heterogeneous data sources (e.g. historical data, metadata, simulation data, etc.)
+Identification of potential cooperation partners
+Maintenance and continuous improvement of machine learning models
+Development of big data pipelines for efficient data processing
+Visit of national and international conferences on a regular basis
+
+Requirements
+
+Requirements
+
+To become part of the ROSEN family, you convince through a result-oriented, structured and independently working method. Moreover, you should bring with you:
+Successfully completed a degree in computer science or other area with strong programming background
+Passion for data and for the development of tools to master them
+Good grasp of big data infrastructures and relevant big data tools
+Mastering of a programming language like python and database systems
+Enthusiasm for new technologies
+Good teamwork skills in interdisciplinary teams
+
+Education and Experience
+University degree in computer science, commercial information technology, physics or equivalent
+5+ years relevant work experience in the field of data engineering
+
+Our Offer
+
+About Rosen-Group
+
+The ROSEN Group in Coumbus, USA acts as a partner in technology development for 20 global subsidiaries. The location supports the entire Group, developing, building and delivering innovative solutions based on client requests.
+
+ROSEN USA offers an exceptional working environment, salary commensurate with experience and incredible benefits package.",3.6,"ROSEN Swiss AG
+3.6","Columbus, OH",201 to 500 Employees,-1,Company - Private,Oil & Gas Services,"Oil, Gas, Energy & Utilities",$100 to $500 million (USD)
+29,ETL Big Data Engineer,"$59K-$107K
+(Glassdoor est.)","As a member of our Software Engineering Group we look first and foremost for people who are passionate around solving business problems through innovation & engineering practices. You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle, as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals. We embrace a culture of experimentation and constantly strive for improvement and learning. You'll work in a collaborative, trusting, thought-provoking environment-one that encourages diversity of thought and creative solutions that are in the best interests of our customers globally.
+
+Qualifications:
+
+You should be able to demonstrate the ability to work in a modern SDLC environment to build durable, stable and efficient software solutions geared towards solving the key business requirements of the organization. Understand business requirements and collaborate with the architecture team to translate them into technical design. You are required to have basic understanding of a data model and its core principles along with data integration architecture.
+
+This role requires a wide variety of strengths and capabilities, including:
+
+• BS/BA degree or equivalent experience.
+
+• Proficiency in one or more modern programming languages AbInitio, BigData ecosystem in Spark, hdfs architechture, Linux OS and scripting, Control-M, Oracle DB).
+
+• Understanding of software skills such as business analysis, development, maintenance and software improvement.
+
+• In depth grasp of the various components of the Ab Initio ETL toolset.
+
+• Creation of ETL pipelines to validate, enrich and persist data.
+
+• Operational knowledge of operating systems such as Linux/AIX.
+
+• Demonstrable ability to use UNIX shell scripting.
+
+• Ability to work in an Agile development environment.
+
+• Must have hands on experience with ETL using Ab Initio of at least 5+ years.
+
+• Must have 1+ years of hands on Spark development experience using Scala and/or Java.
+
+• Advanced knowledge of application, data and infrastructure architecture disciplines.
+
+• Understanding of architecture and design across all systems.
+
+• Working proficiency in developmental toolsets.
+
+• Knowledge of industry wide technology trends and best practices.
+
+• Ability to work in large, collaborative teams to achieve organizational goals, and passionate about building an innovative culture.JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans",3.9,"JPMorgan Chase & Co.
+3.9","Columbus, OH",10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+30,Senior Scientist (Project Rep),-1,".
+
+2x Late Stage Project Representative
+
+To strengthen our Characterisation Team based in our UK Head Office, in Slough, UK, we are looking for a talented individual to fill the position of: Late Stage Project Representative.
+
+As a Project Representative you will be supporting late phase projects as they prepare for BLAs in 2022 and 2024.
+
+You like to work in anenvironment where you can:
+Collaborate with teams and projects within UCB across sites in the UK, Belgium, Switzerland and the US, and with contract analytical laboratories.
+The group also has academic collaborations.
+You willcontribute by:
+Representing late stage projects both technically and as a project manager.
+Inputting into the design of characterization work packages.
+Leading critical quality attribute assessment.
+Contributing to authorship of analytical aspects of regulatory submissions, protocols and reports.
+Liaising with characterisation scientists to obtain data.
+Documentation Management
+Self-learning by reading literature.
+Interested? For this position you’ll need the following education, experience and skills:
+Experience in characterization project representation and a strong understanding of protein chemistry, preferably including mass spectrometry and GxP experience.
+At least a BSc (or equivalent) and several years industrial experience in a biotechnology and pharmaceutical industry, within a Characterisation/ Method Development Group, with a sustained period of time as a project representative.
+Excellent knowledge of protein chemistry.
+Proficient in the use of electronic document management systems.
+Use of Trackwise and risk databases.
+Use of MS project and/ or Integrate.
+Awareness of ICH guidelines.
+Understanding of CQA assessment.
+Why you should apply
+
+At UCB, we strive to attract passionate and outstanding talents who thrive on change and are ready to bring real value to patients. Working for us you’ll discover a place where you can grow and express your full potential. We place an emphasis on innovation, collaboration and impact. Through meaningful recognition and a motivating work atmosphere, we aim to provide an optimal experience by caring about and valuing our employees – just as we do for the patients we serve.
+
+If you believe you are the perfect match to join us on our pioneering adventure, then we invite you to apply and tell us more about your profile and motivation.
+
+.",3.6,"UCB S.A.
+3.6","Slough, OH",5001 to 10000 Employees,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+31,Post Doctoral Scientist - RI Cardio Zhao,"$34K-$53K
+(Glassdoor est.)","JOB POSTING – Post Doctoral Scientist || Zhao Lab – Center for Cardiovascular Research
+Full time; 1.0 FTE
+Main Campus, Columbus, OH
+Specialty: Human iPSCs/Cardiovascular Development
+We are seeking a Post-Doctoral Scientist - A postdoctoral scientist position is immediately available in Dr. Mingtao Zhao’s laboratory in the Center for Cardiovascular Research at the Nationwide Children’s Hospital/Ohio State University in Columbus, Ohio. The Zhao lab is using patient-derived induced pluripotent stem cells, CRISPR/Cas9 genome editing, and functional genomics (single-cell genomics) to study the molecular and genetic mechanisms of cardiovascular development and congenital heart disease (PNAS 2017, PMID: 29203658; Circ Res 2017, PMID: 29030344; Stem Cells 2020, PMID: 32232889). The goal of the Zhao lab is to elucidate the cause-consequence relationship of a given genetic variant in regulatory elements (such as enhancers) in the contribution of cardiovascular disease using patient-derived iPSCs that retain all genetic information of the patients.
+This is a great opportunity for young investigators who aim to establish an independent academic career in the next few years. Successful candidates should have a PhD/MD or equivalent degree (<1>
+The Center for Cardiovascular Research currently has a NIH-funded T32 postdoctoral program to provide interdisciplinary, translational, and state-of-the-art research training in congenital and acquired heart disease, partnered with The Ohio State University College of Medicine. The Abigail Wexner Research Institute is one of the largest pediatric research centers and consistently ranked among the top 10 for NIH funding among free-standing children’s hospitals in the United States. In addition, Nationwide Children’s Hospital is one of the nation’s largest not-for-profit pediatric healthcare networks and is ranked 8th on the US News & World Report’s “America’s Best Children’s Hospitals Honor Roll”.
+
+Why Nationwide Children's Hospital?
+The moment you walk through our doors, you can feel it. When you meet one of our patient families, you believe it. And when you talk with anyone who works here, you want to be part of it, too. Welcome to Nationwide Children’s Hospital, where Passion Meets Purpose.
+Here, Everyone Matters. We’re 13,000 strong. And it takes every single one of us to improve the lives of the kids we care for, and the kids from around the world we’ll never even meet. Kids who are living healthier, fuller lives because of the knowledge we share. We know it takes a Collaborative Culture to deliver on our promise to provide the very best, innovative care and to foster new discoveries, made possible by the most groundbreaking research. Anywhere.
+Ask anyone with a Nationwide Children’s badge what they do for a living. They’ll tell you it’s More Than a Job. It’s a calling. It’s a chance to use and grow your talent to make an impact that truly matters. Because here, we exist simply to help children everywhere.
+Nationwide Children’s Hospital. A Place to Be Proud.
+What Will You Be Doing?
+Performing human iPSC reprograming/culture and cardiac/vascular differentiation
+Design and conduct scientific experiments to obtain data
+Write and publish scientific manuscripts
+Contribute to grant submissions for external funding
+Obtain postdoctoral fellowship and career development award from the AHA and/or NIH
+
+What Are We Looking For?
+To fulfill this role successfully, you must possess these minimum qualifications and experience:
+PhD, PharmD, MD, or equivalent doctorate in Cell/Molecular/Developmental Biology, Cardiovascular Physiology, Genomics or related field
+Desire to pursue a career in biomedical research, and knowledge of the research process.
+Necessary technical skills in the appropriate area of research. Background in iPSC reprogramming and directed differentiation desirable.
+Ability to do technical writing, and good communication skills.
+Your Benefits, Your Wellness:
+As an employer, Nationwide Children’s recognizes the importance of the benefits we offer. We also recognize the importance of balancing your work and personal needs. Our benefits and Employee Wellness package is designed to:
+Empower you to be a conscientious health care consumer through educational and wellness activities
+Establish a work environment that promotes health and well-being
+Support your financial protection and security in retirement
+Most of our positions are benefits’ eligible from day 1.
+Minimum Physical Requirements:
+Percent of time spent on:
+25% Designing and developing protocols
+25% Performing research work
+25% Recording and analyzing data generated by research study
+10% Writing grant proposals
+10% Preparing scientific and technical papers
+03% Liaison with OSU researchers
+02% Miscellaneous paperwork associated with research
+Potential candidates should send their CV (with publication list) and Cover Letter describing future research vision to
+Mingtao Zhao, PhD
+Principal Investigator, Center for Cardiovascular Research
+Abigail Wexner Research Institute
+Nationwide Children’s Hospital
+Assistant Professor, Department of Pediatrics
+The Ohio State University
+Email: Mingtao.Zhao@NationwideChildrens.org
+The above list of duties is intended to describe the general nature and level of work performed by individuals assigned to this classification. It is not to be construed as an exhaustive list of duties performed by the individual so classified, nor is it intended to limit or modify the right of any supervisor to assign, direct, and control the work of employees under his/her supervision.
+EOE/M/F/Disability/Vet",3.8,"Nationwide Children's Hospital Inc.
+3.8","Columbus, OH",10000+ Employees,1892,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+32,"Hiring for Data Engineer in Columbus, OH",-1,"Position: Data Engineer
+Location: Columbus, OH 43240
+Hiring: Contract to Hire
+Minimum Contract Duration: 6-12 Month
+Third-Party Candidate: Not accepted at all
+Telecommute: Yes, till nCovid Pandemic, then 100% onsite.
+
+Job Description: This will be remote Opportunity till the Covid-19 Situation
+Spark, Scala, SQL, Kafka (Docker/Kubernetes preferred)
+Deep understanding of data architecture, ETL, and query optimization are required.
+Strong skills in ETL (Spark-Scala preferred), Cloud (AWS), Kafka, Kubernetes, Docker, SQL, Unix, Mainframe, security.
+Required Skills/Experience:
+BS/BA degree or equivalent experience.
+Knowledge of application, data and infrastructure architecture disciplines.
+Understanding of IT architecture and design.
+Awareness of developmental toolsets.
+Experience in one or more modern programming languages: ETL; Ab-Initio knowledge would be an asset.
+Understanding of software skills such as business analysis, development, maintenance, and software improvement.
+4+ years of experience in the design and delivery of ETL solutions Ab-Initio (preferred) or other ETL tools(Spark, Scala, Java, pETL) will be an asset.
+Experience in UNIX and/or AIX operating environment and UNIX shell scripting would be an asset.
+Working experience as an Agile developer and a good understanding of SDLC methodologies/guidelines.
+Working knowledge of SQL (Structured Query Language) with at least one major database management.
+# DataEngineer #Spark #Scala #SQL #Kafka #Docker #Kubernetes #ETL #Ab-Initio #Unix #Mainframe #Security #AIX #ShellScripting
+
+Job Types: Full-time, Temporary, Contract
+
+Pay: $50.00 - $65.00 per hour
+
+Experience:
+Data Engineer: 6 years (Required)
+Application Question:
+Please let me know your work Authorisation / Visa Status of the USA.
+Work Remotely:
+Temporarily due to COVID-19",-1,Koreminds LLC,"Columbus, OH",-1,-1,-1,-1,-1,-1
+33,Post Doctoral Scientist - RI Radiology Ho,"$34K-$53K
+(Glassdoor est.)","Post Doctoral Scientist - Neuroradiology/Neuroimaging
+Full Time; Benefits Eligible
+We are seeking a Post Doctoral Scientist - The Post Doctoral Scientist will be responsible for advanced neuroimage analysis with a focus on radiomics and deep learning. Key collaborative projects will be targeted in the areas of neuro-oncology, epilepsy, genomics, neonatology, and psychology. This will lead to scientific abstracts, presentations, and manuscripts, as well as grant applications for external research funding. Appointment as a Post Doc is a maximum of 5 years in length, with the potential for continuing in a long-term appointment.
+
+Why Nationwide Children’s Hospital
+The moment you walk through our doors, you can feel it. When you meet one of our patient families, you believe it. And when you talk with anyone who works here, you want to be part of it, too. Welcome to Nationwide Children’s Hospital, where Passion Meets Purpose.
+Here, Everyone Matters. We’re 12,000 strong. And it takes every single one of us to improve the lives of the kids we care for, and the kids from around the world we’ll never even meet. Kids who are living healthier, fuller lives because of the knowledge we share. We know it takes a Collaborative Culture to deliver on our promise to provide the very best, innovative care and to foster new discoveries, made possible by the most groundbreaking research. Anywhere.
+Ask anyone with a Nationwide Children’s badge what they do for a living. They’ll tell you it’s More Than a Job. It’s a calling. It’s a chance to use and grow your talent to make an impact that truly matters. Because here, we exist simply to help children everywhere.
+Nationwide Children’s Hospital. A Place to Be Proud.
+What Will You Be Doing?
+Apply radiomic analysis to large MRI datasets and correlate with clinomic and genomic data.
+Design, train, and validate neural networks for medical image analysis, in conjunction with the informatics group at CRI.
+Optimize computational pipelines to perform pediatric brain segmentation, processing, and analysis.
+Record and analyze data from research studies. Help support neuroimaging research efforts within the hospital, CRI, and The Ohio State University.
+Prepare and publish scientific papers from the results of the research work. Present findings at local (particularly CRI research meetings) and national research forums. Contributes to grant submissions to obtain funding from external agencies.
+
+What Are We Looking For?
+To fulfill this role successfully, you must possess these minimum qualifications and experience:
+Ph.D. in computer science, engineering, physics, mathematics, or a related field.
+Background in data science and machine learning.
+Research experience in medical image processing and analysis.
+Your Benefits, Your Wellness:
+As an employer, Nationwide Children’s recognizes the importance of the benefits we offer. We also recognize the importance of balancing your work and personal needs. Our benefits and Employee Wellness package is designed to:
+Empower you to be a conscientious health care consumer through educational and wellness activities
+Establish a work environment that promotes health and well-being
+Support your financial protection and security in retirement
+Most of our positions are benefits’ eligible from day 1.
+Minimum Physical Requirements:
+Talking on phone/in-person Constantly (67-100%)
+Finger dexterity Constantly (67-100%)
+Seeing Constantly (67-100%)
+Lifting / carrying weight 0-20 pounds Occasionally (0-32%)
+The above list of duties is intended to describe the general nature and level of work performed by individuals assigned to this classification. It is not to be construed as an exhaustive list of duties performed by the individual so classified, nor is it intended to limit or modify the right of any supervisor to assign, direct, and control the work of employees under his/her supervision.
+EOE M/F/Disability/Vet",3.8,"Nationwide Children's Hospital Inc.
+3.8","Columbus, OH",10000+ Employees,1892,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+34,Quant Analytics Manager - SALES SCIENCE,"$69K-$155K
+(Glassdoor est.)","Quantitative Analytics Manager
+
+Job Description
+
+The Chase Sales Science team supports the Consumer Bank to analyze and optimize banker portfolio opportunities. The team provides expertise in data science & analytics to optimize sales performance for our bankers across the firm. The team leverages industry-leading tools, processes and skills to convert data into meaningful insights that enable sales leadership to drive value and an excellent customer experience for their business programs.
+
+We are seeking a Vice President to join the center of excellence dedicated to customer assignment optimization that support lead programs & customer contact strategies. Reporting into the Executive Director, this role will become an expert in assignment for branch and bankers developing strategies for new capabilities and technology implemented rolled out to the field as well as pilot programs and regional testing in the branch network. The role will also provide insights into the use of the bank's channels and the customer's use of the branch and other channels to create strategies to improve customer experience.
+
+Key Responsibilities:
+
+This role will be part of the team responsible for the following functions:
+Help develop the roadmap for the assignment and channel analytics to improve to identify and implement methodologies to improve the support of our bankers and customers.
+Independently manage analytical projects to support the Consumer Bank partners and executives.
+Use data analysis tools/platforms (SQL, R/Python, Teradata, Greenplum & Hadoop) to analyze data from multiple sources.
+Collaborate with technology/data/optimization partners to implement new and improved information into the data environments.
+Perform ad-hoc analyses for channel analytics, trend analysis, and other analyses including segmentations, behavioral analytics, supervised learning, and other techniques to improve business function performance.
+Qualifications:
+Bachelor's degree with 7+ years of experience in a related discipline or 5+ years and a Masters or PhD in related field.
+5+ years of experience with behavioral analysis and optimization - can be in a marketing, operational or digital setting.
+Expertise in customer journey analysis across multiple channels is highly preferred.
+Demonstrated ability to define business KPIs and establish measurement frameworks.
+Excellent written and verbal communications skills with the ability to work and collaborate with internal and external partners.
+Problem-solving skills are essential. Must be able to think outside the box to implement creative solutions that solve business problems.
+Proven ability to work in a fast paced environment, meet deadlines. Must be detail oriented, organized, and perform at high standards.
+Chase is a leading financial services firm, helping nearly half of America's households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans",3.9,"JPMorgan Chase & Co.
+3.9","Columbus, OH",10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+35,Post Doctoral Scientist Year 1-3 Research C/PM Lilly,"$33K-$51K
+(Glassdoor est.)","JOB POSTING – Post Doctoral Scientist
+Full time Exempt: Main Campus; Mon-Fri 8 AM – 5 PM
+We are seeking a Post Doctoral Scientist - Works under the mentorship of an established CRI principal investigator or Senior Research Scientists to design experiments and develop protocols to conduct research in a specific scientific area. From the results of studies, helps to develop hypotheses for further investigation. Prepares technical materials such as abstracts, annual reports, scientific papers and presentations. Publishes scientific articles in appropriate refereed journals. Works toward a goal of becoming independent in his/her research effort, and eventually obtaining external research funding. Appointment as a Post Doc is a maximum of 5 years in length.
+
+Why Nationwide Children's Hospital?
+The moment you walk through our doors, you can feel it. When you meet one of our patient families, you believe it. And when you talk with anyone who works here, you want to be part of it, too. Welcome to Nationwide Children’s Hospital, where Passion Meets Purpose.
+Here, Everyone Matters. We’re 13,000 strong. And it takes every single one of us to improve the lives of the kids we care for, and the kids from around the world we’ll never even meet. Kids who are living healthier, fuller lives because of the knowledge we share. We know it takes a Collaborative Culture to deliver on our promise to provide the very best, innovative care and to foster new discoveries, made possible by the most groundbreaking research. Anywhere.
+Ask anyone with a Nationwide Children’s badge what they do for a living. They’ll tell you it’s More Than a Job. It’s a calling. It’s a chance to use and grow your talent to make an impact that truly matters. Because here, we exist simply to help children everywhere.
+Nationwide Children’s Hospital. A Place to Be Proud.
+What Will You Be Doing?
+With guidance from a CRI mentor, design experiments and develops protocols required to conduct productive research in a specific scientific area. After the study has been designed, performs the research work in accordance with the protocol.
+Helps to train and supervise technical support staff in performing specific techniques essential to carrying out the research program.
+Records and analyzes data generated by the research study, and helps to plan future research endeavors.
+Prepares scientific and technical papers from the results of the research work. Publishes papers in appropriate refereed scientific journals. Presents findings at local (particularly CRI research meetings) and national research forums.
+If appropriate, collaborates with other ongoing research efforts either at CRI or at The Ohio State University.
+This is considered a training position therefore the RI will allow a trainee 5 years to advance beyond the level of Post Doc.
+Works toward research independence. Prepares to submit proposals to and obtain funding from external granting agencies.
+
+What Are We Looking For?
+To fulfill this role successfully, you must possess these minimum qualifications and experience:
+MD, Ph.D, Pharm.D., or equivalent degree.
+Necessary technical skills in the appropriate area of research.
+Ability to do technical writing, and good communication skills.
+Your Benefits, Your Wellness:
+As an employer, Nationwide Children’s recognizes the importance of the benefits we offer. We also recognize the importance of balancing your work and personal needs. Our benefits and Employee Wellness package is designed to:
+Empower you to be a conscientious health care consumer through educational and wellness activities
+Establish a work environment that promotes health and well-being
+Support your financial protection and security in retirement
+Most of our positions are benefits’ eligible from day 1.
+Minimum Physical Requirements:
+Percent of time spent on:
+25% Designing and developing protocols
+25% Performing research work
+25% Recording and analyzing data generated by research study
+10% Preparing scientific and technical papers03% Liaison with OSU researchers
+02% Miscellaneous paperwork associated with research
+Minimum physical requirements:
+100% Kneeling / reaching
+100% Finger dexterity
+100% Talking / hearing / seeing
+33% Lifting / carrying weight 0-20 pounds for 1-5 minutes
+Pressure in this position will vary depending on the workload. The workload will be heavy but manageable most of the time. Pressure may arise in the face of deadlines associated research and manuscript writing.
+The above list of duties is intended to describe the general nature and level of work performed by individuals assigned to this classification. It is not to be construed as an exhaustive list of duties performed by the individual so classified, nor is it intended to limit or modify the right of any supervisor to assign, direct, and control the work of employees under his/her supervision.
+EOE/M/F/Disability/Vet",3.8,"Nationwide Children's Hospital Inc.
+3.8","Columbus, OH",10000+ Employees,1892,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+36,CCB F&BM - Quantitative Modeling/Data Science - Vice President,"$140K-$238K
+(Glassdoor est.)","JPMorgan Chase& Co. (NYSE: JPM) is a leading global financial services firm with assets of $2.6 trillion and operations worldwide. Chase Consumer & Community Banking (CCB) serves nearly 66 million consumers and 4 million small businesses with a broad range of financial services through our 137,000 employees.
+The CCB Business Modeling Center of Excellence is a newly-formed team of data scientists focused on quantitative modeling for marketing, finance and operations. The team answers complex and unique questions, utilizing cutting edge quantitative and computational techniques and leveraging one of the world's largest repositories of consumer data. We work closely with our partners throughout JPMorgan Chase to assess and execute critical business decisions.
+
+Responsibilities:
+
+In this role, you will build models to answer questions and create forecasts for teams across the Finance organization at JPMorgan Chase. Your duties will include:
+Building statistical, econometric, and machine learning models for key business drivers, including forecasting deposits, loans, and revenue, and optimizing strategies
+Performing advanced quantitative analysis of large datasets to identify trends, patterns, and correlations that can be used to improve business performance
+Communicating results across audiences throughout JPMorgan Chase
+Actively contributing to the continuous learning mindset of the organization by bringing in new ideas and perspectives that stretch the thinking of the group
+Examples of projects that you could be working on include:
+Modeling the performance of branches or bankers to improve the branch network
+Predicting credit card redemption patterns
+Applying ML algorithms to customer-level data to optimize business decision-making
+Forecasting call volume to optimize staffing levels
+Qualifications:
+
+Candidates should have a PhD in a quantitative field of study, such as statistics or economics, and a sound foundation in one or more of the following analytical disciplines:
+Statistical and econometric modeling
+Machine learning methods
+Data manipulation and management
+Ability to write code in at least one of the following: R, Python, or equivalent
+In addition, you must have excellent written and oral communication skills, be deeply curious and highly motivated, and be able to translate ambiguous business problems into a conceptual mathematical framework.
+
+Candidates should have at least three years of experience, preferably in financial services or a closely related industry.Chase is a leading financial services firm, helping nearly half of America's households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans",3.9,"JPMorgan Chase & Co.
+3.9","Columbus, OH",10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+37,Big Data Engineer,-1,"RESPONSIBILITIES:
+
+Kforce has a client in search of a Software Big Data Engineer in Columbus, OH.
+
+Can you picture yourself working for one of -America's Ideal Employers-? Our client has received numerous awards and accolades due in part to their commitment to diversity, veterans, and fostering innovation. They've been named one of Fortune Magazine's -World's Most Admired Companies- of 2018 and are included in the -Top 50 Most Innovative Companies- named by Boston Consulting Group. With on-site training and mentoring, they are committed to your professional development as well.
+
+Key Tasks:
+Working with our LOB (line of business) users, collaborate with other technology teams to design, develop, test full stack cloud data solutions
+Leading and be responsible for the craftsmanship, security, availability, resilience and scalability of your solution
+Leading the innovation, perform proof of concept and the implementation of cutting-edge technologies
+REQUIREMENTS:
+5+ years of experience in application development using any of these programming languages: Java, Scala, Python; Experience working in financial industry is preferred
+3+ years of experience working with Amazon Web Services (AWS) including entitlement and IAM policy; AWS professional certification is preferred
+3+ years of experience working on streaming data applications (Spark Streaming, Kafka, Kinesis, and Flink)
+3+ years of experience working with data pipeline open source products (Ex Airflow, Jupyter, etc.)
+3+ years of hands-on experience with Hadoop data platform (MapReduce, Pig, Hive, HBase, Impala), experience working with Cloudera stack is preferred
+1+ years of experience with DevOps automation tools (AWS CloudFormation, Terraform)
+1+ years of experience in developing, deploying and monitoring in building large distributed and parallel systems using container technology including Docker, Kubernetes, AWS EKS, AWD Fargate
+Able to lead by influence, mentor junior software engineers, ability to navigate to different teams and business to find solutions to complex
+Expert in Cloud Services and design technique as well as experience working across large environments with multiple operating systems/infrastructure for large-scale programs (e.g., Expert Engineers) starting to be firm-wide resources working on projects across the company
+Is multi-skilled with expertise across software development lifecycle and toolset
+May be recognized as a leader in Agile and cultivating teams working in Agile frameworks
+Sought out as coach for at least one technical skill
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.",4.1,"Kforce Inc.
+4.1","Columbus, OH",10000+ Employees,1966,Company - Public,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD)
+38,Senior AWS Big Data Engineer,"$98K-$122K
+(Glassdoor est.)","About Us
+
+Would you like to be part of a team focused on helping customers in a ""once in a generation"" shift to the cloud and AWS. NorthBay is a 300 person fast growing AWS Cloud-based Professional Services firm helping customers build solutions for data platforms and analytics, ML/Ai, DevOps, Database Migrations and custom application development and modernization. Do you have the business savvy and the technical background necessary to help grow NorthBay as a key technology provider to the Enterprise?
+
+NorthBay is seeking technically savvy Senior Big Data Engineer to implement solutions for our customers working with our offshore engineering team. In this role, you will collaborate with NorthBay customers, some working onsite, understand requirements and needs, translate into specifications to develop solutions, drive work with offshore engineering teams, and deliver solutions and results to the customer. This includes assessing customer needs, re-engineering business intelligence processes, designing and developing data models, and sharing your expertise throughout the deployment process.
+Responsibilities Include but Not Limited to:
+Possess In depth knowledge and hands on development experience in building Distributed Big Data Solutions including ingestion, caching, processing, consumption, logging & monitoring) (Must Have)
+Strong Development Experience in either one of the Distributed Big Data processing (bulk) engines preferably using Spark on EMR or related (Must Have)
+Strong Development Experience on at least one or more event driven streaming platforms prefer Kinesis, Firehose, Kafka or related (Must Have)
+Strong Data Orchestration experience using tools such has AWS Step Functions, Lambda, AWS Data Pipeline, Apache Airflow or related (Must Have)
+Assess use cases for various teams within the client company and evaluate pros and cons and justify recommended tooling and component solution options using AWS native services, 3rd party and open source solutions (Must Have)
+Strong experience on either one or more MPP Data Warehouse Platforms prefer AWS RedShift, PostgreSQL, Teradata or similar (Must Have)
+Strong understanding and experience with Cloud Storage infrastructure and operationalizing AWS based storage services & solutions prefer S3 or related (Must Have)
+Strong technical communication skills and ability to engage a variety of business and technical audiences explaining features, metrics of Big Data technologies based on experience with previous solutions (Must Have)
+Strong Data Cataloging experience preferably using AWS Glue (Nice to Have)
+Strong Development Experience on at least one NoSQL OR Document databases (Nice to Have)
+Experience on at least one or More Ingestion Integration tools Like Apache NIFI or Streamset or related (Nice to Have)
+Strong Development Experience on at least one Caching Tools like Redis, Lucene, Memcached (Nice to Have)
+Strong Understanding and experience in Big Data Audit Logging and Monitoring solutions (Nice to Have)
+Strong Understanding of at least one or more Cluster Managers (Yarn, Hive, Pig, etc) (Nice to Have)Interface with client project sponsors to gather, assess and interpret client needs and requirements
+Advising on database performance, altering the ETL process, providing SQL transformations, discussing API integration, and deriving business and technical KPIs
+Develop a data model around stated use cases to capture client’s KPIs and data transformations
+Assess, document and translate goals, objectives, problem statements, etc. to our offshore team and onshore management
+Document and communicate product feedback in order to improve user experience
+
+Qualifications:
+
+5+ years of AWS Solutions implementation, professional services experience, prefer Data Analytics space.
+A passion for exploring data and extracting valuable insights.
+Proven analytical, problem solving, and troubleshooting expertise.
+Proficiency in SQL, preferably across a number of dialects (we commonly write MySQL, PostgreSQL, Redshift, SQL Server, and Oracle).
+Exposure to developer tools/workflow (e.g., git/github, *nix, SSH)Experience optimizing database/query performance.
+Experience with AWS ecosystem (EC2, S3, RDS, Redshift).Experience with business intelligence tools with a physical model (e.g., MicroStrategy, Business Objects, Cognos).Experience with data warehousing.
+Exposure to NoSQL-based, SQL-like technologies (e.g., Hive, Pig, Spark SQL/Shark, Impala, BigQuery)
+Excellent verbal and written communication skills
+Ability to travel up to 70-80%
+
+Education and Experience:
+
+Bachelor’s Degree in Computer Science or Equivalent
+Minimum five years of Big Data Engineering on AWS experience
+This position can be located in Columbus or Cincinnati, OH or Detroit or Chicago.",3.5,"NorthBay, LLC
+3.5","Columbus, OH",201 to 500 Employees,2011,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
